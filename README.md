@@ -11,9 +11,9 @@ python train.py --dataset 'snippets'
 
 You can change the ```--dataset``` to ```mr``` to train another dataset.
 
-### Related Work
+## Related Work
 Our related work can be found here: [GIFT](https://github.com/KEAML-JLU/GIFT) and [MI-DELIGHT](https://github.com/KEAML-JLU/MI-DELIGHT).
-### Cite
+## Cite
 If you find our work can help your research, please cite our work! <br>
 ```
 @inproceedings{liu2022few,
