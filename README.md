@@ -6,7 +6,7 @@ Here we provide two datasets, snippets and mr, for reproducibility.
 You can run the following the command.
 
 ```
-python train.py --dataset 'snippets'
+python train.py --dataset 'jail_breaker'
 ```
 
 You can change the ```--dataset``` to ```mr``` to train another dataset.
