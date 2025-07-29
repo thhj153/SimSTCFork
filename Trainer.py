@@ -130,9 +130,9 @@ class Trainer(object):
                 print('GLOBAL: TEST ACC', global_best_acc, 'TEST F1', global_best_f1, 'EPOCH', global_best_epoch)
                 
                 with open("train_log.md", 'a') as fp:
-                    fp.write('##### VALID: VALID ACC {:.4f} VALID F1 {:.4f} EPOCH {}\n'.format(best_valid_acc, best_valid_f1, best_valid_epoch))
-                    fp.write('##### VALID: TEST ACC {:.4f} TEST F1 {:.4f} EPOCH {}\n'.format(best_test_acc, best_test_f1, best_valid_epoch))
-                    fp.write('##### GLOBAL: TEST ACC {:.4f} TEST F1 {:.4f} EPOCH {}\n'.format(global_best_acc, global_best_f1, global_best_epoch))
+                    fp.write('##### def train(): VALID: VALID ACC {:.4f} VALID F1 {:.4f} EPOCH {}\n'.format(best_valid_acc, best_valid_f1, best_valid_epoch))
+                    fp.write('##### def train(): VALID: TEST ACC {:.4f} TEST F1 {:.4f} EPOCH {}\n'.format(best_test_acc, best_test_f1, best_valid_epoch))
+                    fp.write('##### def train(): GLOBAL: TEST ACC {:.4f} TEST F1 {:.4f} EPOCH {}\n'.format(global_best_acc, global_best_f1, global_best_epoch))
 
                     
         return best_acc, best_f1
@@ -142,10 +142,13 @@ class Trainer(object):
         self.model.training = False
         self.cls.training = False
         self.ucl.training = False
+        
+        t_inf = time.time()
         refine_doc = self.model(0)
-
         doc_fea = torch.cat(refine_doc, dim=-1)
         output = self.cls(doc_fea)
+        infer_time = time.time() - t_inf
+        
         with torch.no_grad():
             valid_scores = output[self.valid_idx]
             valid_labels = self.labels[self.valid_idx]
@@ -155,7 +158,7 @@ class Trainer(object):
             print('Valid  loss: {:.4f}  acc: {:.4f}  f1: {:.4f}'.format(loss_valid, acc_valid, f1_valid))
 
             with open("train_log.md", 'a') as fp:
-                fp.write('##### Valid  loss: {:.4f}  acc: {:.4f}  f1: {:.4f}\n'.format(loss_valid, acc_valid, f1_valid))
+                fp.write('##### def test(): Valid  loss: {:.4f}  acc: {:.4f}  f1: {:.4f}\n'.format(loss_valid, acc_valid, f1_valid))
 
             test_scores = output[self.test_idx]
             test_labels = self.labels[self.test_idx]
@@ -165,7 +168,7 @@ class Trainer(object):
             print('Test  loss: {:.4f} acc: {:.4f} f1: {:.4f} time: {:.4f}'.format(loss_test, acc_test, f1_test, time.time() - t))
             
             with open("train_log.md", 'a') as fp:
-                fp.write('##### Valid  loss: {:.4f}  acc: {:.4f}  f1: {:.4f}\n'.format(loss_valid, acc_valid, f1_valid))
+                fp.write('##### def test(): Valid  loss: {:.4f}  acc: {:.4f}  f1: {:.4f}  inference Time: {}\n'.format(loss_valid, acc_valid, f1_valid, infer_time))
             
         self.model.training = True
         self.cls.training = True
