@@ -98,7 +98,11 @@ class Trainer(object):
             loss = loss.item()
 
             acc = torch.eq(torch.argmax(train_scores, dim=-1), train_labels).float().mean().item()
-            print('Epoch {}  train_loss: {:.4f} train_acc: {:.4f} time{:.4f}'.format(i, loss, acc, time.time()-t))
+            print('Epoch {}, train_loss: {:.4f}, train_acc: {:.4f}, time: {:.4f}\n'.format(i, loss, acc, time.time()-t))
+            
+            with open("train_log.md", 'a') as fp:
+                fp.write('Epoch {}, train_loss: {:.4f}, train_acc: {:.4f}, time: {:.4f}\n'.format(i, loss, acc, time.time()-t))
+                
             if i%5 == 0:
                 acc_valid, loss_valid, f1_valid, acc_test, loss_test, f1_test = self.test(i)
 
@@ -120,10 +124,17 @@ class Trainer(object):
                 best_f1 = global_best_f1
                 best_epoch = global_best_epoch
                 
-            if i%100==0:
+            if i%100==0:                
                 print('VALID: VALID ACC', best_valid_acc, ' VALID F1', best_valid_f1, 'EPOCH', best_valid_epoch)
                 print('VALID: TEST ACC', best_test_acc, 'TEST F1', best_test_f1, 'EPOCH', best_valid_epoch)
                 print('GLOBAL: TEST ACC', global_best_acc, 'TEST F1', global_best_f1, 'EPOCH', global_best_epoch)
+                
+                with open("train_log.md", 'a') as fp:
+                    fp.write('##### VALID: VALID ACC {:.4f} VALID F1 {:.4f} EPOCH {}\n'.format(best_valid_acc, best_valid_f1, best_valid_epoch))
+                    fp.write('##### VALID: TEST ACC {:.4f} TEST F1 {:.4f} EPOCH {}\n'.format(best_test_acc, best_test_f1, best_valid_epoch))
+                    fp.write('##### GLOBAL: TEST ACC {:.4f} TEST F1 {:.4f} EPOCH {}\n'.format(global_best_acc, global_best_f1, global_best_epoch))
+
+                    
         return best_acc, best_f1
 
     def test(self, epoch):
@@ -143,12 +154,19 @@ class Trainer(object):
             f1_valid = metrics.f1_score(valid_labels.detach().cpu().numpy(),torch.argmax(valid_scores,-1).detach().cpu().numpy(),average='macro')
             print('Valid  loss: {:.4f}  acc: {:.4f}  f1: {:.4f}'.format(loss_valid, acc_valid, f1_valid))
 
+            with open("train_log.md", 'a') as fp:
+                fp.write('##### Valid  loss: {:.4f}  acc: {:.4f}  f1: {:.4f}\n'.format(loss_valid, acc_valid, f1_valid))
+
             test_scores = output[self.test_idx]
             test_labels = self.labels[self.test_idx]
             loss_test = F.cross_entropy(test_scores, test_labels).item()
             acc_test = torch.eq(torch.argmax(test_scores, dim=-1), test_labels).float().mean().item()
             f1_test = metrics.f1_score(test_labels.detach().cpu().numpy(),torch.argmax(test_scores,-1).detach().cpu().numpy(),average='macro')
             print('Test  loss: {:.4f} acc: {:.4f} f1: {:.4f} time: {:.4f}'.format(loss_test, acc_test, f1_test, time.time() - t))
+            
+            with open("train_log.md", 'a') as fp:
+                fp.write('##### Valid  loss: {:.4f}  acc: {:.4f}  f1: {:.4f}\n'.format(loss_valid, acc_valid, f1_valid))
+            
         self.model.training = True
         self.cls.training = True
         self.ucl.training = True
