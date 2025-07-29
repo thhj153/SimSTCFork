@@ -1,715 +1,715 @@
-Epoch 1, train_loss: 13.0739, train_acc: 0.0866, time: 0.5891
-Epoch 2, train_loss: 12.7130, train_acc: 0.1861, time: 0.2243
-Epoch 3, train_loss: 12.5218, train_acc: 0.1558, time: 0.2233
-Epoch 4, train_loss: 12.3863, train_acc: 0.2424, time: 0.2234
-Epoch 5, train_loss: 12.2864, train_acc: 0.2771, time: 0.2237
-##### Valid  loss: 2.2574  acc: 0.3270  f1: 0.2725
-##### Valid  loss: 2.2574  acc: 0.3270  f1: 0.2725
-Epoch 6, train_loss: 12.2712, train_acc: 0.2944, time: 0.2233
-Epoch 7, train_loss: 12.2765, train_acc: 0.3117, time: 0.2231
-Epoch 8, train_loss: 12.2251, train_acc: 0.3593, time: 0.2232
-Epoch 9, train_loss: 12.2202, train_acc: 0.3723, time: 0.2234
-Epoch 10, train_loss: 12.2220, train_acc: 0.3420, time: 0.2234
-##### Valid  loss: 2.2221  acc: 0.3412  f1: 0.2910
-##### Valid  loss: 2.2221  acc: 0.3412  f1: 0.2910
-Epoch 11, train_loss: 12.1807, train_acc: 0.3420, time: 0.2233
-Epoch 12, train_loss: 12.2144, train_acc: 0.3680, time: 0.2234
-Epoch 13, train_loss: 12.1606, train_acc: 0.3983, time: 0.2234
-Epoch 14, train_loss: 12.1729, train_acc: 0.3983, time: 0.2231
-Epoch 15, train_loss: 12.1275, train_acc: 0.3853, time: 0.2231
-##### Valid  loss: 2.2067  acc: 0.4028  f1: 0.3602
-##### Valid  loss: 2.2067  acc: 0.4028  f1: 0.3602
-Epoch 16, train_loss: 12.1212, train_acc: 0.3506, time: 0.2234
-Epoch 17, train_loss: 12.0930, train_acc: 0.4242, time: 0.2233
-Epoch 18, train_loss: 12.1124, train_acc: 0.4329, time: 0.2235
-Epoch 19, train_loss: 12.1228, train_acc: 0.3463, time: 0.2234
-Epoch 20, train_loss: 12.0583, train_acc: 0.4113, time: 0.2235
-##### Valid  loss: 2.1935  acc: 0.4076  f1: 0.3589
-##### Valid  loss: 2.1935  acc: 0.4076  f1: 0.3589
-Epoch 21, train_loss: 12.0768, train_acc: 0.4762, time: 0.2244
-Epoch 22, train_loss: 12.0471, train_acc: 0.4632, time: 0.2241
-Epoch 23, train_loss: 12.0732, train_acc: 0.4805, time: 0.2241
-Epoch 24, train_loss: 12.0333, train_acc: 0.4892, time: 0.2241
-Epoch 25, train_loss: 12.0388, train_acc: 0.4978, time: 0.2240
-##### Valid  loss: 2.1840  acc: 0.4028  f1: 0.3703
-##### Valid  loss: 2.1840  acc: 0.4028  f1: 0.3703
-Epoch 26, train_loss: 12.0433, train_acc: 0.5108, time: 0.2245
-Epoch 27, train_loss: 12.0392, train_acc: 0.4892, time: 0.2241
-Epoch 28, train_loss: 12.0363, train_acc: 0.5584, time: 0.2238
-Epoch 29, train_loss: 11.9712, train_acc: 0.5195, time: 0.2241
-Epoch 30, train_loss: 11.9957, train_acc: 0.5758, time: 0.2240
-##### Valid  loss: 2.1739  acc: 0.4265  f1: 0.3995
-##### Valid  loss: 2.1739  acc: 0.4265  f1: 0.3995
-Epoch 31, train_loss: 11.9875, train_acc: 0.5541, time: 0.2240
-Epoch 32, train_loss: 11.9661, train_acc: 0.6017, time: 0.2241
-Epoch 33, train_loss: 11.9200, train_acc: 0.6320, time: 0.2240
-Epoch 34, train_loss: 11.8962, train_acc: 0.6017, time: 0.2239
-Epoch 35, train_loss: 11.9203, train_acc: 0.6017, time: 0.2239
-##### Valid  loss: 2.1702  acc: 0.4645  f1: 0.4523
-##### Valid  loss: 2.1702  acc: 0.4645  f1: 0.4523
-Epoch 36, train_loss: 11.9328, train_acc: 0.6104, time: 0.2243
-Epoch 37, train_loss: 11.8901, train_acc: 0.6190, time: 0.2245
-Epoch 38, train_loss: 11.8623, train_acc: 0.6407, time: 0.2243
-Epoch 39, train_loss: 11.8699, train_acc: 0.6234, time: 0.2240
-Epoch 40, train_loss: 11.8663, train_acc: 0.6450, time: 0.2241
-##### Valid  loss: 2.1657  acc: 0.4550  f1: 0.4359
-##### Valid  loss: 2.1657  acc: 0.4550  f1: 0.4359
-Epoch 41, train_loss: 11.8747, train_acc: 0.6494, time: 0.2245
-Epoch 42, train_loss: 11.8491, train_acc: 0.6407, time: 0.2243
-Epoch 43, train_loss: 11.9184, train_acc: 0.6667, time: 0.2244
-Epoch 44, train_loss: 11.8653, train_acc: 0.6104, time: 0.2243
-Epoch 45, train_loss: 11.8697, train_acc: 0.7229, time: 0.2240
-##### Valid  loss: 2.1511  acc: 0.4455  f1: 0.4237
-##### Valid  loss: 2.1511  acc: 0.4455  f1: 0.4237
-Epoch 46, train_loss: 11.8116, train_acc: 0.6970, time: 0.2242
-Epoch 47, train_loss: 11.7685, train_acc: 0.6926, time: 0.2240
-Epoch 48, train_loss: 11.7857, train_acc: 0.7100, time: 0.2243
-Epoch 49, train_loss: 11.7181, train_acc: 0.7229, time: 0.2247
-Epoch 50, train_loss: 11.7323, train_acc: 0.7229, time: 0.2242
-##### Valid  loss: 2.1558  acc: 0.4645  f1: 0.4545
-##### Valid  loss: 2.1558  acc: 0.4645  f1: 0.4545
-Epoch 51, train_loss: 11.7160, train_acc: 0.7359, time: 0.2248
-Epoch 52, train_loss: 11.6711, train_acc: 0.7576, time: 0.2245
-Epoch 53, train_loss: 11.6663, train_acc: 0.7532, time: 0.2246
-Epoch 54, train_loss: 11.6953, train_acc: 0.7143, time: 0.2250
-Epoch 55, train_loss: 11.6703, train_acc: 0.7965, time: 0.2246
-##### Valid  loss: 2.1545  acc: 0.4455  f1: 0.4303
-##### Valid  loss: 2.1545  acc: 0.4455  f1: 0.4303
-Epoch 56, train_loss: 11.6546, train_acc: 0.7532, time: 0.2255
-Epoch 57, train_loss: 11.6168, train_acc: 0.7489, time: 0.2256
-Epoch 58, train_loss: 11.6303, train_acc: 0.7662, time: 0.2252
-Epoch 59, train_loss: 11.6247, train_acc: 0.7922, time: 0.2252
-Epoch 60, train_loss: 11.5941, train_acc: 0.7792, time: 0.2249
-##### Valid  loss: 2.1714  acc: 0.4550  f1: 0.4520
-##### Valid  loss: 2.1714  acc: 0.4550  f1: 0.4520
-Epoch 61, train_loss: 11.5637, train_acc: 0.7835, time: 0.2249
-Epoch 62, train_loss: 11.5703, train_acc: 0.8009, time: 0.2244
-Epoch 63, train_loss: 11.6264, train_acc: 0.7965, time: 0.2249
-Epoch 64, train_loss: 11.6431, train_acc: 0.7922, time: 0.2243
-Epoch 65, train_loss: 11.5401, train_acc: 0.8182, time: 0.2241
-##### Valid  loss: 2.1647  acc: 0.4123  f1: 0.4017
-##### Valid  loss: 2.1647  acc: 0.4123  f1: 0.4017
-Epoch 66, train_loss: 11.6567, train_acc: 0.8052, time: 0.2245
-Epoch 67, train_loss: 11.6140, train_acc: 0.7965, time: 0.2244
-Epoch 68, train_loss: 11.6065, train_acc: 0.8139, time: 0.2248
-Epoch 69, train_loss: 11.5598, train_acc: 0.8225, time: 0.2253
-Epoch 70, train_loss: 11.5600, train_acc: 0.8312, time: 0.2246
-##### Valid  loss: 2.1776  acc: 0.4550  f1: 0.4540
-##### Valid  loss: 2.1776  acc: 0.4550  f1: 0.4540
-Epoch 71, train_loss: 11.5621, train_acc: 0.8312, time: 0.2257
-Epoch 72, train_loss: 11.5871, train_acc: 0.8225, time: 0.2253
-Epoch 73, train_loss: 11.5354, train_acc: 0.8139, time: 0.2255
-Epoch 74, train_loss: 11.5805, train_acc: 0.8225, time: 0.2248
-Epoch 75, train_loss: 11.6404, train_acc: 0.8139, time: 0.2246
-##### Valid  loss: 2.1642  acc: 0.4645  f1: 0.4589
-##### Valid  loss: 2.1642  acc: 0.4645  f1: 0.4589
-Epoch 76, train_loss: 11.5554, train_acc: 0.8745, time: 0.2248
-Epoch 77, train_loss: 11.5306, train_acc: 0.8571, time: 0.2247
-Epoch 78, train_loss: 11.5904, train_acc: 0.8182, time: 0.2247
-Epoch 79, train_loss: 11.5448, train_acc: 0.8658, time: 0.2244
-Epoch 80, train_loss: 11.5196, train_acc: 0.8485, time: 0.2247
-##### Valid  loss: 2.1759  acc: 0.4502  f1: 0.4451
-##### Valid  loss: 2.1759  acc: 0.4502  f1: 0.4451
-Epoch 81, train_loss: 11.6350, train_acc: 0.8658, time: 0.2248
-Epoch 82, train_loss: 11.4706, train_acc: 0.8485, time: 0.2248
-Epoch 83, train_loss: 11.4577, train_acc: 0.8701, time: 0.2247
-Epoch 84, train_loss: 11.4958, train_acc: 0.8658, time: 0.2246
-Epoch 85, train_loss: 11.5389, train_acc: 0.8701, time: 0.2248
-##### Valid  loss: 2.1795  acc: 0.4455  f1: 0.4437
-##### Valid  loss: 2.1795  acc: 0.4455  f1: 0.4437
-Epoch 86, train_loss: 11.6160, train_acc: 0.8398, time: 0.2246
-Epoch 87, train_loss: 11.4778, train_acc: 0.8485, time: 0.2248
-Epoch 88, train_loss: 11.4494, train_acc: 0.8528, time: 0.2250
-Epoch 89, train_loss: 11.5027, train_acc: 0.8961, time: 0.2246
-Epoch 90, train_loss: 11.4470, train_acc: 0.8961, time: 0.2245
-##### Valid  loss: 2.1729  acc: 0.4787  f1: 0.4802
-##### Valid  loss: 2.1729  acc: 0.4787  f1: 0.4802
-Epoch 91, train_loss: 11.4520, train_acc: 0.8312, time: 0.2247
-Epoch 92, train_loss: 11.4319, train_acc: 0.8961, time: 0.2246
-Epoch 93, train_loss: 11.6624, train_acc: 0.8442, time: 0.2253
-Epoch 94, train_loss: 11.5868, train_acc: 0.8961, time: 0.2250
-Epoch 95, train_loss: 11.5175, train_acc: 0.8918, time: 0.2251
-##### Valid  loss: 2.1810  acc: 0.4597  f1: 0.4295
-##### Valid  loss: 2.1810  acc: 0.4597  f1: 0.4295
-Epoch 96, train_loss: 11.4887, train_acc: 0.8788, time: 0.2249
-Epoch 97, train_loss: 11.5187, train_acc: 0.9048, time: 0.2255
-Epoch 98, train_loss: 11.4303, train_acc: 0.8701, time: 0.2252
-Epoch 99, train_loss: 11.5236, train_acc: 0.8528, time: 0.2248
-Epoch 100, train_loss: 11.3823, train_acc: 0.8745, time: 0.2247
-##### Valid  loss: 2.1645  acc: 0.4645  f1: 0.4685
-##### Valid  loss: 2.1645  acc: 0.4645  f1: 0.4685
-##### VALID: VALID ACC 0.4787 VALID F1 0.4802 EPOCH 90
-##### VALID: TEST ACC 0.4913 TEST F1 0.2872 EPOCH 90
-##### GLOBAL: TEST ACC 0.5166 TEST F1 0.2926 EPOCH 65
-Epoch 101, train_loss: 11.4692, train_acc: 0.8485, time: 0.2247
-Epoch 102, train_loss: 11.4285, train_acc: 0.8961, time: 0.2253
-Epoch 103, train_loss: 11.5281, train_acc: 0.8918, time: 0.2245
-Epoch 104, train_loss: 11.4769, train_acc: 0.8961, time: 0.2248
-Epoch 105, train_loss: 11.5415, train_acc: 0.8745, time: 0.2249
-##### Valid  loss: 2.1820  acc: 0.4692  f1: 0.4321
-##### Valid  loss: 2.1820  acc: 0.4692  f1: 0.4321
-Epoch 106, train_loss: 11.4465, train_acc: 0.8874, time: 0.2250
-Epoch 107, train_loss: 11.3733, train_acc: 0.8701, time: 0.2249
-Epoch 108, train_loss: 11.5013, train_acc: 0.8485, time: 0.2244
-Epoch 109, train_loss: 11.3735, train_acc: 0.9091, time: 0.2247
-Epoch 110, train_loss: 11.3947, train_acc: 0.8831, time: 0.2251
-##### Valid  loss: 2.1869  acc: 0.4787  f1: 0.4802
-##### Valid  loss: 2.1869  acc: 0.4787  f1: 0.4802
-Epoch 111, train_loss: 11.4177, train_acc: 0.9048, time: 0.2249
-Epoch 112, train_loss: 11.3777, train_acc: 0.9177, time: 0.2250
-Epoch 113, train_loss: 11.4195, train_acc: 0.8745, time: 0.2245
-Epoch 114, train_loss: 11.3930, train_acc: 0.8831, time: 0.2249
-Epoch 115, train_loss: 11.4614, train_acc: 0.8701, time: 0.2252
-##### Valid  loss: 2.1855  acc: 0.4645  f1: 0.4318
-##### Valid  loss: 2.1855  acc: 0.4645  f1: 0.4318
-Epoch 116, train_loss: 11.4242, train_acc: 0.9004, time: 0.2249
-Epoch 117, train_loss: 11.4108, train_acc: 0.8831, time: 0.2247
-Epoch 118, train_loss: 11.4223, train_acc: 0.9091, time: 0.2247
-Epoch 119, train_loss: 11.4115, train_acc: 0.8918, time: 0.2254
-Epoch 120, train_loss: 11.4360, train_acc: 0.9134, time: 0.2259
-##### Valid  loss: 2.1743  acc: 0.4739  f1: 0.4411
-##### Valid  loss: 2.1743  acc: 0.4739  f1: 0.4411
-Epoch 121, train_loss: 11.3519, train_acc: 0.9091, time: 0.2260
-Epoch 122, train_loss: 11.4044, train_acc: 0.8745, time: 0.2251
-Epoch 123, train_loss: 11.4521, train_acc: 0.9134, time: 0.2254
-Epoch 124, train_loss: 11.4539, train_acc: 0.9134, time: 0.2260
-Epoch 125, train_loss: 11.4271, train_acc: 0.9134, time: 0.2250
-##### Valid  loss: 2.1908  acc: 0.4739  f1: 0.4376
-##### Valid  loss: 2.1908  acc: 0.4739  f1: 0.4376
-Epoch 126, train_loss: 11.3932, train_acc: 0.8874, time: 0.2252
-Epoch 127, train_loss: 11.4204, train_acc: 0.8701, time: 0.2250
-Epoch 128, train_loss: 11.3336, train_acc: 0.9004, time: 0.2251
-Epoch 129, train_loss: 11.4377, train_acc: 0.9004, time: 0.2255
-Epoch 130, train_loss: 11.3575, train_acc: 0.9004, time: 0.2250
-##### Valid  loss: 2.1928  acc: 0.4645  f1: 0.4666
-##### Valid  loss: 2.1928  acc: 0.4645  f1: 0.4666
-Epoch 131, train_loss: 11.3412, train_acc: 0.8918, time: 0.2258
-Epoch 132, train_loss: 11.3246, train_acc: 0.8918, time: 0.2258
-Epoch 133, train_loss: 11.4621, train_acc: 0.8874, time: 0.2264
-Epoch 134, train_loss: 11.3129, train_acc: 0.8918, time: 0.2252
-Epoch 135, train_loss: 11.4302, train_acc: 0.8961, time: 0.2252
-##### Valid  loss: 2.1744  acc: 0.4787  f1: 0.4824
-##### Valid  loss: 2.1744  acc: 0.4787  f1: 0.4824
-Epoch 136, train_loss: 11.3686, train_acc: 0.8788, time: 0.2254
-Epoch 137, train_loss: 11.3285, train_acc: 0.9177, time: 0.2255
-Epoch 138, train_loss: 11.6093, train_acc: 0.8918, time: 0.2251
-Epoch 139, train_loss: 11.4372, train_acc: 0.9091, time: 0.2254
-Epoch 140, train_loss: 11.3536, train_acc: 0.9091, time: 0.2254
-##### Valid  loss: 2.1767  acc: 0.4645  f1: 0.4328
-##### Valid  loss: 2.1767  acc: 0.4645  f1: 0.4328
-Epoch 141, train_loss: 11.3321, train_acc: 0.9004, time: 0.2254
-Epoch 142, train_loss: 11.3797, train_acc: 0.9048, time: 0.2255
-Epoch 143, train_loss: 11.3407, train_acc: 0.8961, time: 0.2251
-Epoch 144, train_loss: 11.3359, train_acc: 0.9091, time: 0.2253
-Epoch 145, train_loss: 11.3293, train_acc: 0.9134, time: 0.2253
-##### Valid  loss: 2.1826  acc: 0.4645  f1: 0.4283
-##### Valid  loss: 2.1826  acc: 0.4645  f1: 0.4283
-Epoch 146, train_loss: 11.3116, train_acc: 0.9048, time: 0.2256
-Epoch 147, train_loss: 11.3398, train_acc: 0.9091, time: 0.2251
-Epoch 148, train_loss: 11.3425, train_acc: 0.9048, time: 0.2254
-Epoch 149, train_loss: 11.4046, train_acc: 0.9004, time: 0.2257
-Epoch 150, train_loss: 11.2931, train_acc: 0.8874, time: 0.2257
-##### Valid  loss: 2.1775  acc: 0.4929  f1: 0.4969
-##### Valid  loss: 2.1775  acc: 0.4929  f1: 0.4969
-Epoch 151, train_loss: 11.3511, train_acc: 0.8961, time: 0.2254
-Epoch 152, train_loss: 11.2867, train_acc: 0.8961, time: 0.2253
-Epoch 153, train_loss: 11.3619, train_acc: 0.8918, time: 0.2254
-Epoch 154, train_loss: 11.3566, train_acc: 0.9048, time: 0.2260
-Epoch 155, train_loss: 11.3274, train_acc: 0.9177, time: 0.2252
-##### Valid  loss: 2.1787  acc: 0.4692  f1: 0.4361
-##### Valid  loss: 2.1787  acc: 0.4692  f1: 0.4361
-Epoch 156, train_loss: 11.3456, train_acc: 0.9134, time: 0.2257
-Epoch 157, train_loss: 11.3128, train_acc: 0.9221, time: 0.2255
-Epoch 158, train_loss: 11.3246, train_acc: 0.8918, time: 0.2261
-Epoch 159, train_loss: 11.3205, train_acc: 0.9134, time: 0.2253
-Epoch 160, train_loss: 11.2854, train_acc: 0.9091, time: 0.2254
-##### Valid  loss: 2.1848  acc: 0.4645  f1: 0.4280
-##### Valid  loss: 2.1848  acc: 0.4645  f1: 0.4280
-Epoch 161, train_loss: 11.2873, train_acc: 0.9177, time: 0.2254
-Epoch 162, train_loss: 11.2998, train_acc: 0.9004, time: 0.2254
-Epoch 163, train_loss: 11.2958, train_acc: 0.9004, time: 0.2253
-Epoch 164, train_loss: 11.3325, train_acc: 0.9221, time: 0.2253
-Epoch 165, train_loss: 11.3285, train_acc: 0.9048, time: 0.2256
-##### Valid  loss: 2.1843  acc: 0.4834  f1: 0.4442
-##### Valid  loss: 2.1843  acc: 0.4834  f1: 0.4442
-Epoch 166, train_loss: 11.3263, train_acc: 0.9134, time: 0.2257
-Epoch 167, train_loss: 11.3557, train_acc: 0.9177, time: 0.2256
-Epoch 168, train_loss: 11.3643, train_acc: 0.9307, time: 0.2253
-Epoch 169, train_loss: 11.3669, train_acc: 0.9134, time: 0.2254
-Epoch 170, train_loss: 11.2626, train_acc: 0.9091, time: 0.2257
-##### Valid  loss: 2.1829  acc: 0.4787  f1: 0.4778
-##### Valid  loss: 2.1829  acc: 0.4787  f1: 0.4778
-Epoch 171, train_loss: 11.3106, train_acc: 0.9264, time: 0.2256
-Epoch 172, train_loss: 11.3020, train_acc: 0.9134, time: 0.2254
-Epoch 173, train_loss: 11.3212, train_acc: 0.9177, time: 0.2256
-Epoch 174, train_loss: 11.2825, train_acc: 0.9004, time: 0.2260
-Epoch 175, train_loss: 11.2492, train_acc: 0.9221, time: 0.2258
-##### Valid  loss: 2.1859  acc: 0.4739  f1: 0.4398
-##### Valid  loss: 2.1859  acc: 0.4739  f1: 0.4398
-Epoch 176, train_loss: 11.2897, train_acc: 0.9177, time: 0.2258
-Epoch 177, train_loss: 11.2771, train_acc: 0.9134, time: 0.2256
-Epoch 178, train_loss: 11.3001, train_acc: 0.9177, time: 0.2256
-Epoch 179, train_loss: 11.2898, train_acc: 0.8701, time: 0.2254
-Epoch 180, train_loss: 11.3235, train_acc: 0.8831, time: 0.2254
-##### Valid  loss: 2.1800  acc: 0.4502  f1: 0.4510
-##### Valid  loss: 2.1800  acc: 0.4502  f1: 0.4510
-Epoch 181, train_loss: 11.3949, train_acc: 0.9264, time: 0.2260
-Epoch 182, train_loss: 11.3751, train_acc: 0.9351, time: 0.2262
-Epoch 183, train_loss: 11.2809, train_acc: 0.9048, time: 0.2264
-Epoch 184, train_loss: 11.3222, train_acc: 0.9177, time: 0.2257
-Epoch 185, train_loss: 11.3084, train_acc: 0.9004, time: 0.2259
-##### Valid  loss: 2.1782  acc: 0.4645  f1: 0.4667
-##### Valid  loss: 2.1782  acc: 0.4645  f1: 0.4667
-Epoch 186, train_loss: 11.2209, train_acc: 0.9048, time: 0.2261
-Epoch 187, train_loss: 11.3455, train_acc: 0.8831, time: 0.2258
-Epoch 188, train_loss: 11.2698, train_acc: 0.9177, time: 0.2258
-Epoch 189, train_loss: 11.2699, train_acc: 0.9048, time: 0.2263
-Epoch 190, train_loss: 11.2583, train_acc: 0.9091, time: 0.2256
-##### Valid  loss: 2.1780  acc: 0.4550  f1: 0.4067
-##### Valid  loss: 2.1780  acc: 0.4550  f1: 0.4067
-Epoch 191, train_loss: 11.3697, train_acc: 0.9264, time: 0.2256
-Epoch 192, train_loss: 11.2226, train_acc: 0.9264, time: 0.2258
-Epoch 193, train_loss: 11.2494, train_acc: 0.9264, time: 0.2262
-Epoch 194, train_loss: 11.2480, train_acc: 0.9351, time: 0.2256
-Epoch 195, train_loss: 11.2984, train_acc: 0.9048, time: 0.2256
-##### Valid  loss: 2.1712  acc: 0.4692  f1: 0.4315
-##### Valid  loss: 2.1712  acc: 0.4692  f1: 0.4315
-Epoch 196, train_loss: 11.3696, train_acc: 0.9048, time: 0.2258
-Epoch 197, train_loss: 11.2619, train_acc: 0.9048, time: 0.2264
-Epoch 198, train_loss: 11.3027, train_acc: 0.9134, time: 0.2259
-Epoch 199, train_loss: 11.3465, train_acc: 0.9004, time: 0.2259
-Epoch 200, train_loss: 11.3169, train_acc: 0.9134, time: 0.2262
-##### Valid  loss: 2.1702  acc: 0.4597  f1: 0.4632
-##### Valid  loss: 2.1702  acc: 0.4597  f1: 0.4632
-##### VALID: VALID ACC 0.4929 VALID F1 0.4969 EPOCH 150
-##### VALID: TEST ACC 0.5088 TEST F1 0.2957 EPOCH 150
-##### GLOBAL: TEST ACC 0.5166 TEST F1 0.2926 EPOCH 65
-Epoch 201, train_loss: 11.2775, train_acc: 0.9091, time: 0.2259
-Epoch 202, train_loss: 11.2858, train_acc: 0.9091, time: 0.2257
-Epoch 203, train_loss: 11.2934, train_acc: 0.9221, time: 0.2260
-Epoch 204, train_loss: 11.2860, train_acc: 0.9091, time: 0.2260
-Epoch 205, train_loss: 11.3157, train_acc: 0.9048, time: 0.2261
-##### Valid  loss: 2.1757  acc: 0.4739  f1: 0.4753
-##### Valid  loss: 2.1757  acc: 0.4739  f1: 0.4753
-Epoch 206, train_loss: 11.4526, train_acc: 0.9264, time: 0.2258
-Epoch 207, train_loss: 11.2845, train_acc: 0.9264, time: 0.2257
-Epoch 208, train_loss: 11.2696, train_acc: 0.9048, time: 0.2261
-Epoch 209, train_loss: 11.2534, train_acc: 0.9221, time: 0.2260
-Epoch 210, train_loss: 11.2474, train_acc: 0.9004, time: 0.2262
-##### Valid  loss: 2.1800  acc: 0.4834  f1: 0.4805
-##### Valid  loss: 2.1800  acc: 0.4834  f1: 0.4805
-Epoch 211, train_loss: 11.2810, train_acc: 0.9091, time: 0.2257
-Epoch 212, train_loss: 11.2914, train_acc: 0.9134, time: 0.2262
-Epoch 213, train_loss: 11.2618, train_acc: 0.9221, time: 0.2257
-Epoch 214, train_loss: 11.4482, train_acc: 0.9177, time: 0.2258
-Epoch 215, train_loss: 11.2614, train_acc: 0.9177, time: 0.2263
-##### Valid  loss: 2.1891  acc: 0.4882  f1: 0.4398
-##### Valid  loss: 2.1891  acc: 0.4882  f1: 0.4398
-Epoch 216, train_loss: 11.2901, train_acc: 0.9221, time: 0.2260
-Epoch 217, train_loss: 11.2479, train_acc: 0.9264, time: 0.2255
-Epoch 218, train_loss: 11.2592, train_acc: 0.9177, time: 0.2259
-Epoch 219, train_loss: 11.3171, train_acc: 0.8874, time: 0.2262
-Epoch 220, train_loss: 11.2853, train_acc: 0.9221, time: 0.2257
-##### Valid  loss: 2.1755  acc: 0.4929  f1: 0.4981
-##### Valid  loss: 2.1755  acc: 0.4929  f1: 0.4981
-Epoch 221, train_loss: 11.2624, train_acc: 0.9221, time: 0.2260
-Epoch 222, train_loss: 11.2665, train_acc: 0.9177, time: 0.2259
-Epoch 223, train_loss: 11.2418, train_acc: 0.9177, time: 0.2263
-Epoch 224, train_loss: 11.2981, train_acc: 0.9177, time: 0.2261
-Epoch 225, train_loss: 11.2896, train_acc: 0.9177, time: 0.2261
-##### Valid  loss: 2.1721  acc: 0.4692  f1: 0.4726
-##### Valid  loss: 2.1721  acc: 0.4692  f1: 0.4726
-Epoch 226, train_loss: 11.2816, train_acc: 0.9264, time: 0.2258
-Epoch 227, train_loss: 11.3106, train_acc: 0.9134, time: 0.2264
-Epoch 228, train_loss: 11.2659, train_acc: 0.9264, time: 0.2257
-Epoch 229, train_loss: 11.2999, train_acc: 0.9264, time: 0.2259
-Epoch 230, train_loss: 11.2336, train_acc: 0.9264, time: 0.2260
-##### Valid  loss: 2.1742  acc: 0.4739  f1: 0.4771
-##### Valid  loss: 2.1742  acc: 0.4739  f1: 0.4771
-Epoch 231, train_loss: 11.2581, train_acc: 0.9307, time: 0.2257
-Epoch 232, train_loss: 11.2243, train_acc: 0.9177, time: 0.2268
-Epoch 233, train_loss: 11.2666, train_acc: 0.9134, time: 0.2268
-Epoch 234, train_loss: 11.2298, train_acc: 0.9177, time: 0.2263
-Epoch 235, train_loss: 11.3014, train_acc: 0.9177, time: 0.2262
-##### Valid  loss: 2.1840  acc: 0.4645  f1: 0.4162
-##### Valid  loss: 2.1840  acc: 0.4645  f1: 0.4162
-Epoch 236, train_loss: 11.2695, train_acc: 0.9177, time: 0.2268
-Epoch 237, train_loss: 11.3247, train_acc: 0.9221, time: 0.2272
-Epoch 238, train_loss: 11.2696, train_acc: 0.9307, time: 0.2265
-Epoch 239, train_loss: 11.2393, train_acc: 0.9134, time: 0.2266
-Epoch 240, train_loss: 11.2661, train_acc: 0.9134, time: 0.2267
-##### Valid  loss: 2.1826  acc: 0.4692  f1: 0.4733
-##### Valid  loss: 2.1826  acc: 0.4692  f1: 0.4733
-Epoch 241, train_loss: 11.2575, train_acc: 0.9048, time: 0.2271
-Epoch 242, train_loss: 11.2841, train_acc: 0.9004, time: 0.2269
-Epoch 243, train_loss: 11.2474, train_acc: 0.9221, time: 0.2267
-Epoch 244, train_loss: 11.2575, train_acc: 0.9177, time: 0.2266
-Epoch 245, train_loss: 11.1930, train_acc: 0.9177, time: 0.2275
-##### Valid  loss: 2.1698  acc: 0.4597  f1: 0.4612
-##### Valid  loss: 2.1698  acc: 0.4597  f1: 0.4612
-Epoch 246, train_loss: 11.2978, train_acc: 0.9134, time: 0.2266
-Epoch 247, train_loss: 11.2611, train_acc: 0.9091, time: 0.2271
-Epoch 248, train_loss: 11.2641, train_acc: 0.9221, time: 0.2270
-Epoch 249, train_loss: 11.2372, train_acc: 0.9221, time: 0.2270
-Epoch 250, train_loss: 11.2277, train_acc: 0.9091, time: 0.2275
-##### Valid  loss: 2.1704  acc: 0.4597  f1: 0.4242
-##### Valid  loss: 2.1704  acc: 0.4597  f1: 0.4242
-Epoch 251, train_loss: 11.2511, train_acc: 0.9307, time: 0.2271
-Epoch 252, train_loss: 11.2133, train_acc: 0.9351, time: 0.2267
-Epoch 253, train_loss: 11.2339, train_acc: 0.9177, time: 0.2268
-Epoch 254, train_loss: 11.2302, train_acc: 0.9264, time: 0.2267
-Epoch 255, train_loss: 11.2657, train_acc: 0.9264, time: 0.2269
-##### Valid  loss: 2.1582  acc: 0.4787  f1: 0.4826
-##### Valid  loss: 2.1582  acc: 0.4787  f1: 0.4826
-Epoch 256, train_loss: 11.2815, train_acc: 0.9264, time: 0.2264
-Epoch 257, train_loss: 11.1993, train_acc: 0.9091, time: 0.2263
-Epoch 258, train_loss: 11.2879, train_acc: 0.9264, time: 0.2267
-Epoch 259, train_loss: 11.2877, train_acc: 0.9177, time: 0.2269
-Epoch 260, train_loss: 11.3263, train_acc: 0.9177, time: 0.2263
-##### Valid  loss: 2.1720  acc: 0.4645  f1: 0.4298
-##### Valid  loss: 2.1720  acc: 0.4645  f1: 0.4298
-Epoch 261, train_loss: 11.3400, train_acc: 0.9221, time: 0.2270
-Epoch 262, train_loss: 11.2596, train_acc: 0.9264, time: 0.2271
-Epoch 263, train_loss: 11.2394, train_acc: 0.9134, time: 0.2275
-Epoch 264, train_loss: 11.2070, train_acc: 0.9307, time: 0.2267
-Epoch 265, train_loss: 11.2031, train_acc: 0.9351, time: 0.2269
-##### Valid  loss: 2.1657  acc: 0.4929  f1: 0.4943
-##### Valid  loss: 2.1657  acc: 0.4929  f1: 0.4943
-Epoch 266, train_loss: 11.2479, train_acc: 0.9351, time: 0.2267
-Epoch 267, train_loss: 11.2105, train_acc: 0.9307, time: 0.2267
-Epoch 268, train_loss: 11.2394, train_acc: 0.9177, time: 0.2266
-Epoch 269, train_loss: 11.2667, train_acc: 0.9177, time: 0.2272
-Epoch 270, train_loss: 11.2149, train_acc: 0.9307, time: 0.2264
-##### Valid  loss: 2.1725  acc: 0.4550  f1: 0.4196
-##### Valid  loss: 2.1725  acc: 0.4550  f1: 0.4196
-Epoch 271, train_loss: 11.2456, train_acc: 0.9091, time: 0.2269
-Epoch 272, train_loss: 11.2162, train_acc: 0.9177, time: 0.2268
-Epoch 273, train_loss: 11.2458, train_acc: 0.9134, time: 0.2266
-Epoch 274, train_loss: 11.2479, train_acc: 0.9307, time: 0.2262
-Epoch 275, train_loss: 11.2065, train_acc: 0.9177, time: 0.2264
-##### Valid  loss: 2.1596  acc: 0.4787  f1: 0.4781
-##### Valid  loss: 2.1596  acc: 0.4787  f1: 0.4781
-Epoch 276, train_loss: 11.2346, train_acc: 0.9048, time: 0.2268
-Epoch 277, train_loss: 11.2276, train_acc: 0.9264, time: 0.2263
-Epoch 278, train_loss: 11.2210, train_acc: 0.9221, time: 0.2265
-Epoch 279, train_loss: 11.2029, train_acc: 0.9221, time: 0.2268
-Epoch 280, train_loss: 11.2756, train_acc: 0.9048, time: 0.2266
-##### Valid  loss: 2.1773  acc: 0.4645  f1: 0.4292
-##### Valid  loss: 2.1773  acc: 0.4645  f1: 0.4292
-Epoch 281, train_loss: 11.2648, train_acc: 0.9091, time: 0.2264
-Epoch 282, train_loss: 11.2305, train_acc: 0.9264, time: 0.2267
-Epoch 283, train_loss: 11.2633, train_acc: 0.9221, time: 0.2263
-Epoch 284, train_loss: 11.2234, train_acc: 0.9177, time: 0.2267
-Epoch 285, train_loss: 11.2587, train_acc: 0.9134, time: 0.2271
-##### Valid  loss: 2.1705  acc: 0.4739  f1: 0.4763
-##### Valid  loss: 2.1705  acc: 0.4739  f1: 0.4763
-Epoch 286, train_loss: 11.2835, train_acc: 0.9221, time: 0.2272
-Epoch 287, train_loss: 11.2206, train_acc: 0.8961, time: 0.2274
-Epoch 288, train_loss: 11.2180, train_acc: 0.9394, time: 0.2272
-Epoch 289, train_loss: 11.2626, train_acc: 0.9177, time: 0.2270
-Epoch 290, train_loss: 11.2228, train_acc: 0.9394, time: 0.2269
-##### Valid  loss: 2.1846  acc: 0.4455  f1: 0.4101
-##### Valid  loss: 2.1846  acc: 0.4455  f1: 0.4101
-Epoch 291, train_loss: 11.2898, train_acc: 0.9307, time: 0.2267
-Epoch 292, train_loss: 11.2127, train_acc: 0.9221, time: 0.2265
-Epoch 293, train_loss: 11.2114, train_acc: 0.9307, time: 0.2269
-Epoch 294, train_loss: 11.2291, train_acc: 0.9307, time: 0.2270
-Epoch 295, train_loss: 11.1994, train_acc: 0.9177, time: 0.2274
-##### Valid  loss: 2.1675  acc: 0.4645  f1: 0.4682
-##### Valid  loss: 2.1675  acc: 0.4645  f1: 0.4682
-Epoch 296, train_loss: 11.2424, train_acc: 0.9134, time: 0.2271
-Epoch 297, train_loss: 11.3472, train_acc: 0.9351, time: 0.2265
-Epoch 298, train_loss: 11.2271, train_acc: 0.9307, time: 0.2266
-Epoch 299, train_loss: 11.2051, train_acc: 0.9177, time: 0.2261
-Epoch 300, train_loss: 11.2760, train_acc: 0.9264, time: 0.2263
-##### Valid  loss: 2.1764  acc: 0.4597  f1: 0.4662
-##### Valid  loss: 2.1764  acc: 0.4597  f1: 0.4662
-##### VALID: VALID ACC 0.4929 VALID F1 0.4969 EPOCH 150
-##### VALID: TEST ACC 0.5088 TEST F1 0.2957 EPOCH 150
-##### GLOBAL: TEST ACC 0.5319 TEST F1 0.2992 EPOCH 250
-Epoch 301, train_loss: 11.2200, train_acc: 0.9177, time: 0.2264
-Epoch 302, train_loss: 11.2363, train_acc: 0.9264, time: 0.2263
-Epoch 303, train_loss: 11.2217, train_acc: 0.9264, time: 0.2267
-Epoch 304, train_loss: 11.2733, train_acc: 0.9221, time: 0.2269
-Epoch 305, train_loss: 11.2045, train_acc: 0.9264, time: 0.2261
-##### Valid  loss: 2.1819  acc: 0.4502  f1: 0.4529
-##### Valid  loss: 2.1819  acc: 0.4502  f1: 0.4529
-Epoch 306, train_loss: 11.2048, train_acc: 0.9177, time: 0.2268
-Epoch 307, train_loss: 11.1972, train_acc: 0.9221, time: 0.2260
-Epoch 308, train_loss: 11.1765, train_acc: 0.9221, time: 0.2263
-Epoch 309, train_loss: 11.2330, train_acc: 0.9351, time: 0.2259
-Epoch 310, train_loss: 11.1916, train_acc: 0.9264, time: 0.2262
-##### Valid  loss: 2.1793  acc: 0.4645  f1: 0.4680
-##### Valid  loss: 2.1793  acc: 0.4645  f1: 0.4680
-Epoch 311, train_loss: 11.2018, train_acc: 0.9221, time: 0.2267
-Epoch 312, train_loss: 11.2741, train_acc: 0.9437, time: 0.2266
-Epoch 313, train_loss: 11.2129, train_acc: 0.9221, time: 0.2268
-Epoch 314, train_loss: 11.2307, train_acc: 0.9394, time: 0.2269
-Epoch 315, train_loss: 11.2387, train_acc: 0.9307, time: 0.2264
-##### Valid  loss: 2.1691  acc: 0.4834  f1: 0.4808
-##### Valid  loss: 2.1691  acc: 0.4834  f1: 0.4808
-Epoch 316, train_loss: 11.2768, train_acc: 0.9177, time: 0.2269
-Epoch 317, train_loss: 11.2362, train_acc: 0.9134, time: 0.2269
-Epoch 318, train_loss: 11.2092, train_acc: 0.9437, time: 0.2271
-Epoch 319, train_loss: 11.2170, train_acc: 0.9221, time: 0.2260
-Epoch 320, train_loss: 11.2578, train_acc: 0.9177, time: 0.2260
-##### Valid  loss: 2.1698  acc: 0.4645  f1: 0.4630
-##### Valid  loss: 2.1698  acc: 0.4645  f1: 0.4630
-Epoch 321, train_loss: 11.2165, train_acc: 0.9307, time: 0.2264
-Epoch 322, train_loss: 11.2292, train_acc: 0.9264, time: 0.2264
-Epoch 323, train_loss: 11.2060, train_acc: 0.9307, time: 0.2268
-Epoch 324, train_loss: 11.1780, train_acc: 0.9307, time: 0.2267
-Epoch 325, train_loss: 11.2125, train_acc: 0.9264, time: 0.2264
-##### Valid  loss: 2.1689  acc: 0.4597  f1: 0.4615
-##### Valid  loss: 2.1689  acc: 0.4597  f1: 0.4615
-Epoch 326, train_loss: 11.2085, train_acc: 0.9351, time: 0.2267
-Epoch 327, train_loss: 11.1860, train_acc: 0.9351, time: 0.2266
-Epoch 328, train_loss: 11.1779, train_acc: 0.9307, time: 0.2269
-Epoch 329, train_loss: 11.2302, train_acc: 0.9307, time: 0.2259
-Epoch 330, train_loss: 11.1664, train_acc: 0.9351, time: 0.2260
-##### Valid  loss: 2.1694  acc: 0.4787  f1: 0.4747
-##### Valid  loss: 2.1694  acc: 0.4787  f1: 0.4747
-Epoch 331, train_loss: 11.2004, train_acc: 0.9048, time: 0.2261
-Epoch 332, train_loss: 11.2162, train_acc: 0.9307, time: 0.2266
-Epoch 333, train_loss: 11.2078, train_acc: 0.9351, time: 0.2260
-Epoch 334, train_loss: 11.1884, train_acc: 0.9481, time: 0.2262
-Epoch 335, train_loss: 11.2459, train_acc: 0.9177, time: 0.2267
-##### Valid  loss: 2.1713  acc: 0.4550  f1: 0.4220
-##### Valid  loss: 2.1713  acc: 0.4550  f1: 0.4220
-Epoch 336, train_loss: 11.1925, train_acc: 0.9177, time: 0.2263
-Epoch 337, train_loss: 11.1788, train_acc: 0.9307, time: 0.2267
-Epoch 338, train_loss: 11.1829, train_acc: 0.9351, time: 0.2264
-Epoch 339, train_loss: 11.1672, train_acc: 0.9351, time: 0.2262
-Epoch 340, train_loss: 11.1740, train_acc: 0.9307, time: 0.2269
-##### Valid  loss: 2.1639  acc: 0.4645  f1: 0.4694
-##### Valid  loss: 2.1639  acc: 0.4645  f1: 0.4694
-Epoch 341, train_loss: 11.1933, train_acc: 0.9177, time: 0.2270
-Epoch 342, train_loss: 11.1901, train_acc: 0.9394, time: 0.2266
-Epoch 343, train_loss: 11.1973, train_acc: 0.9351, time: 0.2260
-Epoch 344, train_loss: 11.1996, train_acc: 0.9221, time: 0.2261
-Epoch 345, train_loss: 11.1619, train_acc: 0.9264, time: 0.2265
-##### Valid  loss: 2.1766  acc: 0.4408  f1: 0.4400
-##### Valid  loss: 2.1766  acc: 0.4408  f1: 0.4400
-Epoch 346, train_loss: 11.1998, train_acc: 0.9221, time: 0.2263
-Epoch 347, train_loss: 11.2766, train_acc: 0.9351, time: 0.2268
-Epoch 348, train_loss: 11.1477, train_acc: 0.9351, time: 0.2270
-Epoch 349, train_loss: 11.2131, train_acc: 0.9307, time: 0.2272
-Epoch 350, train_loss: 11.2295, train_acc: 0.9307, time: 0.2266
-##### Valid  loss: 2.1736  acc: 0.4692  f1: 0.4742
-##### Valid  loss: 2.1736  acc: 0.4692  f1: 0.4742
-Epoch 351, train_loss: 11.1768, train_acc: 0.9307, time: 0.2263
-Epoch 352, train_loss: 11.2395, train_acc: 0.9177, time: 0.2265
-Epoch 353, train_loss: 11.2088, train_acc: 0.9134, time: 0.2259
-Epoch 354, train_loss: 11.2702, train_acc: 0.9307, time: 0.2263
-Epoch 355, train_loss: 11.1844, train_acc: 0.9134, time: 0.2267
-##### Valid  loss: 2.1884  acc: 0.4787  f1: 0.4733
-##### Valid  loss: 2.1884  acc: 0.4787  f1: 0.4733
-Epoch 356, train_loss: 11.1973, train_acc: 0.9134, time: 0.2264
-Epoch 357, train_loss: 11.1996, train_acc: 0.9221, time: 0.2268
-Epoch 358, train_loss: 11.1549, train_acc: 0.9351, time: 0.2271
-Epoch 359, train_loss: 11.3141, train_acc: 0.9264, time: 0.2269
-Epoch 360, train_loss: 11.2433, train_acc: 0.9264, time: 0.2268
-##### Valid  loss: 2.1608  acc: 0.4597  f1: 0.4602
-##### Valid  loss: 2.1608  acc: 0.4597  f1: 0.4602
-Epoch 361, train_loss: 11.2608, train_acc: 0.9177, time: 0.2269
-Epoch 362, train_loss: 11.1920, train_acc: 0.9221, time: 0.2271
-Epoch 363, train_loss: 11.2249, train_acc: 0.9221, time: 0.2263
-Epoch 364, train_loss: 11.2410, train_acc: 0.9221, time: 0.2272
-Epoch 365, train_loss: 11.1893, train_acc: 0.9394, time: 0.2265
-##### Valid  loss: 2.1758  acc: 0.4597  f1: 0.4221
-##### Valid  loss: 2.1758  acc: 0.4597  f1: 0.4221
-Epoch 366, train_loss: 11.1676, train_acc: 0.9437, time: 0.2269
-Epoch 367, train_loss: 11.2660, train_acc: 0.9177, time: 0.2267
-Epoch 368, train_loss: 11.2433, train_acc: 0.9221, time: 0.2270
-Epoch 369, train_loss: 11.2423, train_acc: 0.9264, time: 0.2260
-Epoch 370, train_loss: 11.2024, train_acc: 0.9351, time: 0.2260
-##### Valid  loss: 2.1705  acc: 0.4645  f1: 0.4705
-##### Valid  loss: 2.1705  acc: 0.4645  f1: 0.4705
-Epoch 371, train_loss: 11.2491, train_acc: 0.9264, time: 0.2262
-Epoch 372, train_loss: 11.2093, train_acc: 0.9394, time: 0.2265
-Epoch 373, train_loss: 11.2161, train_acc: 0.9351, time: 0.2259
-Epoch 374, train_loss: 11.1985, train_acc: 0.9264, time: 0.2264
-Epoch 375, train_loss: 11.2079, train_acc: 0.9221, time: 0.2268
-##### Valid  loss: 2.1793  acc: 0.4550  f1: 0.4181
-##### Valid  loss: 2.1793  acc: 0.4550  f1: 0.4181
-Epoch 376, train_loss: 11.2130, train_acc: 0.9221, time: 0.2262
-Epoch 377, train_loss: 11.2315, train_acc: 0.9221, time: 0.2268
-Epoch 378, train_loss: 11.2010, train_acc: 0.9351, time: 0.2270
-Epoch 379, train_loss: 11.2202, train_acc: 0.9307, time: 0.2264
-Epoch 380, train_loss: 11.1708, train_acc: 0.9351, time: 0.2268
-##### Valid  loss: 2.1650  acc: 0.4645  f1: 0.4670
-##### Valid  loss: 2.1650  acc: 0.4645  f1: 0.4670
-Epoch 381, train_loss: 11.2371, train_acc: 0.9437, time: 0.2268
-Epoch 382, train_loss: 11.1481, train_acc: 0.9394, time: 0.2272
-Epoch 383, train_loss: 11.2071, train_acc: 0.9264, time: 0.2260
-Epoch 384, train_loss: 11.1957, train_acc: 0.9177, time: 0.2262
-Epoch 385, train_loss: 11.2536, train_acc: 0.9264, time: 0.2266
-##### Valid  loss: 2.1692  acc: 0.4550  f1: 0.4594
-##### Valid  loss: 2.1692  acc: 0.4550  f1: 0.4594
-Epoch 386, train_loss: 11.1588, train_acc: 0.9264, time: 0.2265
-Epoch 387, train_loss: 11.2839, train_acc: 0.9177, time: 0.2268
-Epoch 388, train_loss: 11.1636, train_acc: 0.9221, time: 0.2265
-Epoch 389, train_loss: 11.1770, train_acc: 0.9221, time: 0.2262
-Epoch 390, train_loss: 11.2276, train_acc: 0.9351, time: 0.2268
-##### Valid  loss: 2.1751  acc: 0.4597  f1: 0.4642
-##### Valid  loss: 2.1751  acc: 0.4597  f1: 0.4642
-Epoch 391, train_loss: 11.1929, train_acc: 0.9264, time: 0.2271
-Epoch 392, train_loss: 11.2876, train_acc: 0.9091, time: 0.2268
-Epoch 393, train_loss: 11.1948, train_acc: 0.9221, time: 0.2266
-Epoch 394, train_loss: 11.1988, train_acc: 0.9264, time: 0.2265
-Epoch 395, train_loss: 11.1722, train_acc: 0.9134, time: 0.2269
-##### Valid  loss: 2.1782  acc: 0.4550  f1: 0.4508
-##### Valid  loss: 2.1782  acc: 0.4550  f1: 0.4508
-Epoch 396, train_loss: 11.2134, train_acc: 0.9221, time: 0.2269
-Epoch 397, train_loss: 11.2573, train_acc: 0.9221, time: 0.2264
-Epoch 398, train_loss: 11.2335, train_acc: 0.9221, time: 0.2265
-Epoch 399, train_loss: 11.2073, train_acc: 0.9221, time: 0.2265
-Epoch 400, train_loss: 11.2227, train_acc: 0.9264, time: 0.2262
-##### Valid  loss: 2.1784  acc: 0.4408  f1: 0.4470
-##### Valid  loss: 2.1784  acc: 0.4408  f1: 0.4470
-##### VALID: VALID ACC 0.4929 VALID F1 0.4969 EPOCH 150
-##### VALID: TEST ACC 0.5088 TEST F1 0.2957 EPOCH 150
-##### GLOBAL: TEST ACC 0.5610 TEST F1 0.2983 EPOCH 375
-Epoch 401, train_loss: 11.2407, train_acc: 0.9307, time: 0.2262
-Epoch 402, train_loss: 11.1830, train_acc: 0.9134, time: 0.2266
-Epoch 403, train_loss: 11.1779, train_acc: 0.9091, time: 0.2261
-Epoch 404, train_loss: 11.2446, train_acc: 0.9437, time: 0.2265
-Epoch 405, train_loss: 11.1549, train_acc: 0.9351, time: 0.2269
-##### Valid  loss: 2.1600  acc: 0.4550  f1: 0.4226
-##### Valid  loss: 2.1600  acc: 0.4550  f1: 0.4226
-Epoch 406, train_loss: 11.2695, train_acc: 0.9221, time: 0.2271
-Epoch 407, train_loss: 11.1925, train_acc: 0.9351, time: 0.2270
-Epoch 408, train_loss: 11.1662, train_acc: 0.9221, time: 0.2273
-Epoch 409, train_loss: 11.1547, train_acc: 0.9307, time: 0.2275
-Epoch 410, train_loss: 11.1866, train_acc: 0.9264, time: 0.2265
-##### Valid  loss: 2.1710  acc: 0.4597  f1: 0.4271
-##### Valid  loss: 2.1710  acc: 0.4597  f1: 0.4271
-Epoch 411, train_loss: 11.1956, train_acc: 0.9134, time: 0.2267
-Epoch 412, train_loss: 11.1210, train_acc: 0.9351, time: 0.2267
-Epoch 413, train_loss: 11.1588, train_acc: 0.9221, time: 0.2269
-Epoch 414, train_loss: 11.1690, train_acc: 0.9221, time: 0.2270
-Epoch 415, train_loss: 11.2163, train_acc: 0.9351, time: 0.2262
-##### Valid  loss: 2.1724  acc: 0.4739  f1: 0.4733
-##### Valid  loss: 2.1724  acc: 0.4739  f1: 0.4733
-Epoch 416, train_loss: 11.1875, train_acc: 0.9264, time: 0.2265
-Epoch 417, train_loss: 11.2152, train_acc: 0.9394, time: 0.2263
-Epoch 418, train_loss: 11.1458, train_acc: 0.9394, time: 0.2267
-Epoch 419, train_loss: 11.1754, train_acc: 0.9394, time: 0.2260
-Epoch 420, train_loss: 11.2896, train_acc: 0.9351, time: 0.2262
-##### Valid  loss: 2.1727  acc: 0.4692  f1: 0.4680
-##### Valid  loss: 2.1727  acc: 0.4692  f1: 0.4680
-Epoch 421, train_loss: 11.1802, train_acc: 0.9307, time: 0.2265
-Epoch 422, train_loss: 11.1937, train_acc: 0.9394, time: 0.2264
-Epoch 423, train_loss: 11.1601, train_acc: 0.9307, time: 0.2269
-Epoch 424, train_loss: 11.1655, train_acc: 0.9351, time: 0.2265
-Epoch 425, train_loss: 11.2328, train_acc: 0.9307, time: 0.2267
-##### Valid  loss: 2.1685  acc: 0.4597  f1: 0.4606
-##### Valid  loss: 2.1685  acc: 0.4597  f1: 0.4606
-Epoch 426, train_loss: 11.2017, train_acc: 0.9437, time: 0.2269
-Epoch 427, train_loss: 11.2118, train_acc: 0.9264, time: 0.2267
-Epoch 428, train_loss: 11.1740, train_acc: 0.9481, time: 0.2268
-Epoch 429, train_loss: 11.1546, train_acc: 0.9307, time: 0.2260
-Epoch 430, train_loss: 11.1916, train_acc: 0.9394, time: 0.2263
-##### Valid  loss: 2.1632  acc: 0.4834  f1: 0.4839
-##### Valid  loss: 2.1632  acc: 0.4834  f1: 0.4839
-Epoch 431, train_loss: 11.1809, train_acc: 0.9351, time: 0.2272
-Epoch 432, train_loss: 11.1558, train_acc: 0.9351, time: 0.2269
-Epoch 433, train_loss: 11.2420, train_acc: 0.9351, time: 0.2272
-Epoch 434, train_loss: 11.1290, train_acc: 0.9307, time: 0.2274
-Epoch 435, train_loss: 11.1162, train_acc: 0.9264, time: 0.2269
-##### Valid  loss: 2.1686  acc: 0.4455  f1: 0.4500
-##### Valid  loss: 2.1686  acc: 0.4455  f1: 0.4500
-Epoch 436, train_loss: 11.1393, train_acc: 0.9264, time: 0.2276
-Epoch 437, train_loss: 11.1726, train_acc: 0.9221, time: 0.2272
-Epoch 438, train_loss: 11.1540, train_acc: 0.9307, time: 0.2262
-Epoch 439, train_loss: 11.1537, train_acc: 0.9351, time: 0.2265
-Epoch 440, train_loss: 11.2283, train_acc: 0.9134, time: 0.2271
-##### Valid  loss: 2.1784  acc: 0.4502  f1: 0.4084
-##### Valid  loss: 2.1784  acc: 0.4502  f1: 0.4084
-Epoch 441, train_loss: 11.1841, train_acc: 0.9351, time: 0.2264
-Epoch 442, train_loss: 11.1708, train_acc: 0.9264, time: 0.2262
-Epoch 443, train_loss: 11.1380, train_acc: 0.9264, time: 0.2265
-Epoch 444, train_loss: 11.1275, train_acc: 0.9264, time: 0.2268
-Epoch 445, train_loss: 11.2101, train_acc: 0.9091, time: 0.2263
-##### Valid  loss: 2.1829  acc: 0.4502  f1: 0.4499
-##### Valid  loss: 2.1829  acc: 0.4502  f1: 0.4499
-Epoch 446, train_loss: 11.2316, train_acc: 0.8918, time: 0.2268
-Epoch 447, train_loss: 11.1872, train_acc: 0.9307, time: 0.2265
-Epoch 448, train_loss: 11.1704, train_acc: 0.9394, time: 0.2264
-Epoch 449, train_loss: 11.1673, train_acc: 0.9394, time: 0.2269
-Epoch 450, train_loss: 11.1461, train_acc: 0.9307, time: 0.2270
-##### Valid  loss: 2.1732  acc: 0.4597  f1: 0.4230
-##### Valid  loss: 2.1732  acc: 0.4597  f1: 0.4230
-Epoch 451, train_loss: 11.1909, train_acc: 0.9394, time: 0.2267
-Epoch 452, train_loss: 11.1577, train_acc: 0.9307, time: 0.2268
-Epoch 453, train_loss: 11.2300, train_acc: 0.9264, time: 0.2272
-Epoch 454, train_loss: 11.1946, train_acc: 0.9351, time: 0.2271
-Epoch 455, train_loss: 11.1084, train_acc: 0.9351, time: 0.2268
-##### Valid  loss: 2.1826  acc: 0.4360  f1: 0.4438
-##### Valid  loss: 2.1826  acc: 0.4360  f1: 0.4438
-Epoch 456, train_loss: 11.1477, train_acc: 0.9394, time: 0.2269
-Epoch 457, train_loss: 11.1968, train_acc: 0.9307, time: 0.2272
-Epoch 458, train_loss: 11.1631, train_acc: 0.9307, time: 0.2269
-Epoch 459, train_loss: 11.1861, train_acc: 0.9437, time: 0.2270
-Epoch 460, train_loss: 11.2453, train_acc: 0.9394, time: 0.2265
-##### Valid  loss: 2.1652  acc: 0.4597  f1: 0.4665
-##### Valid  loss: 2.1652  acc: 0.4597  f1: 0.4665
-Epoch 461, train_loss: 11.1851, train_acc: 0.9394, time: 0.2270
-Epoch 462, train_loss: 11.2517, train_acc: 0.9264, time: 0.2268
-Epoch 463, train_loss: 11.1598, train_acc: 0.9351, time: 0.2271
-Epoch 464, train_loss: 11.1736, train_acc: 0.9307, time: 0.2260
-Epoch 465, train_loss: 11.1310, train_acc: 0.9221, time: 0.2263
-##### Valid  loss: 2.1789  acc: 0.4645  f1: 0.4283
-##### Valid  loss: 2.1789  acc: 0.4645  f1: 0.4283
-Epoch 466, train_loss: 11.1166, train_acc: 0.9307, time: 0.2264
-Epoch 467, train_loss: 11.1778, train_acc: 0.9394, time: 0.2265
-Epoch 468, train_loss: 11.1300, train_acc: 0.9394, time: 0.2269
-Epoch 469, train_loss: 11.2482, train_acc: 0.9307, time: 0.2266
-Epoch 470, train_loss: 11.2240, train_acc: 0.9307, time: 0.2268
-##### Valid  loss: 2.1544  acc: 0.4645  f1: 0.4667
-##### Valid  loss: 2.1544  acc: 0.4645  f1: 0.4667
-Epoch 471, train_loss: 11.1505, train_acc: 0.9351, time: 0.2269
-Epoch 472, train_loss: 11.1437, train_acc: 0.9221, time: 0.2269
-Epoch 473, train_loss: 11.2364, train_acc: 0.9351, time: 0.2275
-Epoch 474, train_loss: 11.1147, train_acc: 0.9221, time: 0.2259
-Epoch 475, train_loss: 11.1856, train_acc: 0.9481, time: 0.2262
-##### Valid  loss: 2.1769  acc: 0.4692  f1: 0.4333
-##### Valid  loss: 2.1769  acc: 0.4692  f1: 0.4333
-Epoch 476, train_loss: 11.1378, train_acc: 0.9394, time: 0.2264
-Epoch 477, train_loss: 11.1424, train_acc: 0.9351, time: 0.2263
-Epoch 478, train_loss: 11.1732, train_acc: 0.9437, time: 0.2268
-Epoch 479, train_loss: 11.1866, train_acc: 0.9307, time: 0.2274
-Epoch 480, train_loss: 11.1654, train_acc: 0.9264, time: 0.2267
-##### Valid  loss: 2.1784  acc: 0.4455  f1: 0.4494
-##### Valid  loss: 2.1784  acc: 0.4455  f1: 0.4494
-Epoch 481, train_loss: 11.2571, train_acc: 0.9351, time: 0.2272
-Epoch 482, train_loss: 11.1428, train_acc: 0.9394, time: 0.2270
-Epoch 483, train_loss: 11.1377, train_acc: 0.9264, time: 0.2264
-Epoch 484, train_loss: 11.1920, train_acc: 0.9437, time: 0.2267
-Epoch 485, train_loss: 11.1678, train_acc: 0.9351, time: 0.2270
-##### Valid  loss: 2.1816  acc: 0.4502  f1: 0.4561
-##### Valid  loss: 2.1816  acc: 0.4502  f1: 0.4561
-Epoch 486, train_loss: 11.1809, train_acc: 0.9437, time: 0.2265
-Epoch 487, train_loss: 11.1951, train_acc: 0.9307, time: 0.2263
-Epoch 488, train_loss: 11.1576, train_acc: 0.9351, time: 0.2262
-Epoch 489, train_loss: 11.1460, train_acc: 0.9221, time: 0.2266
-Epoch 490, train_loss: 11.1299, train_acc: 0.9264, time: 0.2263
-##### Valid  loss: 2.1717  acc: 0.4502  f1: 0.4457
-##### Valid  loss: 2.1717  acc: 0.4502  f1: 0.4457
-Epoch 491, train_loss: 11.1627, train_acc: 0.9048, time: 0.2269
-Epoch 492, train_loss: 11.1567, train_acc: 0.9134, time: 0.2275
-Epoch 493, train_loss: 11.1628, train_acc: 0.9307, time: 0.2267
-Epoch 494, train_loss: 11.1317, train_acc: 0.9221, time: 0.2272
-Epoch 495, train_loss: 11.1575, train_acc: 0.9307, time: 0.2276
-##### Valid  loss: 2.1604  acc: 0.4739  f1: 0.4720
-##### Valid  loss: 2.1604  acc: 0.4739  f1: 0.4720
-Epoch 496, train_loss: 11.1734, train_acc: 0.9307, time: 0.2270
-Epoch 497, train_loss: 11.2179, train_acc: 0.9221, time: 0.2277
-Epoch 498, train_loss: 11.1924, train_acc: 0.9221, time: 0.2275
-Epoch 499, train_loss: 11.0981, train_acc: 0.9307, time: 0.2274
-Epoch 500, train_loss: 11.1267, train_acc: 0.9221, time: 0.2262
-##### Valid  loss: 2.1771  acc: 0.4550  f1: 0.4569
-##### Valid  loss: 2.1771  acc: 0.4550  f1: 0.4569
-##### VALID: VALID ACC 0.4929 VALID F1 0.4969 EPOCH 150
-##### VALID: TEST ACC 0.5088 TEST F1 0.2957 EPOCH 150
-##### GLOBAL: TEST ACC 0.5790 TEST F1 0.2990 EPOCH 500
+Epoch 1, train_loss: 13.0739, train_acc: 0.0866, time: 0.5749
+Epoch 2, train_loss: 12.7130, train_acc: 0.1861, time: 0.2240
+Epoch 3, train_loss: 12.5218, train_acc: 0.1558, time: 0.2225
+Epoch 4, train_loss: 12.3863, train_acc: 0.2424, time: 0.2228
+Epoch 5, train_loss: 12.2864, train_acc: 0.2771, time: 0.2225
+##### def test(): Valid  loss: 2.2574  acc: 0.3270  f1: 0.2725
+##### def test(): Valid  loss: 2.2574  acc: 0.3270  f1: 0.2725  inference Time: 0.07053589820861816
+Epoch 6, train_loss: 12.2712, train_acc: 0.2944, time: 0.2223
+Epoch 7, train_loss: 12.2765, train_acc: 0.3117, time: 0.2228
+Epoch 8, train_loss: 12.2251, train_acc: 0.3636, time: 0.2225
+Epoch 9, train_loss: 12.2202, train_acc: 0.3723, time: 0.2227
+Epoch 10, train_loss: 12.2220, train_acc: 0.3420, time: 0.2229
+##### def test(): Valid  loss: 2.2221  acc: 0.3412  f1: 0.2905
+##### def test(): Valid  loss: 2.2221  acc: 0.3412  f1: 0.2905  inference Time: 0.07055521011352539
+Epoch 11, train_loss: 12.1807, train_acc: 0.3420, time: 0.2230
+Epoch 12, train_loss: 12.2144, train_acc: 0.3680, time: 0.2229
+Epoch 13, train_loss: 12.1606, train_acc: 0.4026, time: 0.2227
+Epoch 14, train_loss: 12.1730, train_acc: 0.3983, time: 0.2225
+Epoch 15, train_loss: 12.1276, train_acc: 0.3853, time: 0.2226
+##### def test(): Valid  loss: 2.2067  acc: 0.3981  f1: 0.3560
+##### def test(): Valid  loss: 2.2067  acc: 0.3981  f1: 0.3560  inference Time: 0.07079863548278809
+Epoch 16, train_loss: 12.1212, train_acc: 0.3506, time: 0.2226
+Epoch 17, train_loss: 12.0931, train_acc: 0.4242, time: 0.2229
+Epoch 18, train_loss: 12.1124, train_acc: 0.4329, time: 0.2230
+Epoch 19, train_loss: 12.1226, train_acc: 0.3463, time: 0.2227
+Epoch 20, train_loss: 12.0583, train_acc: 0.4113, time: 0.2225
+##### def test(): Valid  loss: 2.1936  acc: 0.4028  f1: 0.3556
+##### def test(): Valid  loss: 2.1936  acc: 0.4028  f1: 0.3556  inference Time: 0.07043671607971191
+Epoch 21, train_loss: 12.0767, train_acc: 0.4719, time: 0.2226
+Epoch 22, train_loss: 12.0470, train_acc: 0.4675, time: 0.2229
+Epoch 23, train_loss: 12.0730, train_acc: 0.4892, time: 0.2227
+Epoch 24, train_loss: 12.0335, train_acc: 0.4935, time: 0.2227
+Epoch 25, train_loss: 12.0390, train_acc: 0.4935, time: 0.2228
+##### def test(): Valid  loss: 2.1840  acc: 0.4076  f1: 0.3761
+##### def test(): Valid  loss: 2.1840  acc: 0.4076  f1: 0.3761  inference Time: 0.07084226608276367
+Epoch 26, train_loss: 12.0431, train_acc: 0.5065, time: 0.2226
+Epoch 27, train_loss: 12.0390, train_acc: 0.4892, time: 0.2227
+Epoch 28, train_loss: 12.0366, train_acc: 0.5584, time: 0.2228
+Epoch 29, train_loss: 11.9710, train_acc: 0.5195, time: 0.2229
+Epoch 30, train_loss: 11.9957, train_acc: 0.5844, time: 0.2229
+##### def test(): Valid  loss: 2.1738  acc: 0.4408  f1: 0.4172
+##### def test(): Valid  loss: 2.1738  acc: 0.4408  f1: 0.4172  inference Time: 0.07065343856811523
+Epoch 31, train_loss: 11.9873, train_acc: 0.5541, time: 0.2230
+Epoch 32, train_loss: 11.9665, train_acc: 0.6017, time: 0.2227
+Epoch 33, train_loss: 11.9200, train_acc: 0.6364, time: 0.2230
+Epoch 34, train_loss: 11.8961, train_acc: 0.6017, time: 0.2226
+Epoch 35, train_loss: 11.9195, train_acc: 0.5931, time: 0.2228
+##### def test(): Valid  loss: 2.1698  acc: 0.4550  f1: 0.4418
+##### def test(): Valid  loss: 2.1698  acc: 0.4550  f1: 0.4418  inference Time: 0.07079386711120605
+Epoch 36, train_loss: 11.9320, train_acc: 0.6104, time: 0.2226
+Epoch 37, train_loss: 11.8900, train_acc: 0.6190, time: 0.2227
+Epoch 38, train_loss: 11.8616, train_acc: 0.6407, time: 0.2226
+Epoch 39, train_loss: 11.8687, train_acc: 0.6277, time: 0.2228
+Epoch 40, train_loss: 11.8656, train_acc: 0.6407, time: 0.2230
+##### def test(): Valid  loss: 2.1660  acc: 0.4550  f1: 0.4350
+##### def test(): Valid  loss: 2.1660  acc: 0.4550  f1: 0.4350  inference Time: 0.07078909873962402
+Epoch 41, train_loss: 11.8762, train_acc: 0.6364, time: 0.2228
+Epoch 42, train_loss: 11.8485, train_acc: 0.6320, time: 0.2233
+Epoch 43, train_loss: 11.9180, train_acc: 0.6667, time: 0.2235
+Epoch 44, train_loss: 11.8669, train_acc: 0.6061, time: 0.2232
+Epoch 45, train_loss: 11.8694, train_acc: 0.7229, time: 0.2233
+##### def test(): Valid  loss: 2.1510  acc: 0.4408  f1: 0.4191
+##### def test(): Valid  loss: 2.1510  acc: 0.4408  f1: 0.4191  inference Time: 0.07093262672424316
+Epoch 46, train_loss: 11.8094, train_acc: 0.7013, time: 0.2233
+Epoch 47, train_loss: 11.7678, train_acc: 0.7100, time: 0.2233
+Epoch 48, train_loss: 11.7838, train_acc: 0.7100, time: 0.2236
+Epoch 49, train_loss: 11.7188, train_acc: 0.7229, time: 0.2232
+Epoch 50, train_loss: 11.7326, train_acc: 0.7186, time: 0.2233
+##### def test(): Valid  loss: 2.1543  acc: 0.4692  f1: 0.4527
+##### def test(): Valid  loss: 2.1543  acc: 0.4692  f1: 0.4527  inference Time: 0.0709683895111084
+Epoch 51, train_loss: 11.7150, train_acc: 0.7489, time: 0.2234
+Epoch 52, train_loss: 11.6704, train_acc: 0.7532, time: 0.2235
+Epoch 53, train_loss: 11.6661, train_acc: 0.7576, time: 0.2234
+Epoch 54, train_loss: 11.6974, train_acc: 0.7143, time: 0.2235
+Epoch 55, train_loss: 11.6701, train_acc: 0.7965, time: 0.2237
+##### def test(): Valid  loss: 2.1534  acc: 0.4455  f1: 0.4312
+##### def test(): Valid  loss: 2.1534  acc: 0.4455  f1: 0.4312  inference Time: 0.07075142860412598
+Epoch 56, train_loss: 11.6545, train_acc: 0.7532, time: 0.2235
+Epoch 57, train_loss: 11.6166, train_acc: 0.7576, time: 0.2232
+Epoch 58, train_loss: 11.6298, train_acc: 0.7662, time: 0.2232
+Epoch 59, train_loss: 11.6244, train_acc: 0.7922, time: 0.2232
+Epoch 60, train_loss: 11.5956, train_acc: 0.7749, time: 0.2231
+##### def test(): Valid  loss: 2.1711  acc: 0.4550  f1: 0.4156
+##### def test(): Valid  loss: 2.1711  acc: 0.4550  f1: 0.4156  inference Time: 0.07094478607177734
+Epoch 61, train_loss: 11.5622, train_acc: 0.7922, time: 0.2232
+Epoch 62, train_loss: 11.5729, train_acc: 0.8052, time: 0.2233
+Epoch 63, train_loss: 11.6272, train_acc: 0.8182, time: 0.2235
+Epoch 64, train_loss: 11.6448, train_acc: 0.8009, time: 0.2233
+Epoch 65, train_loss: 11.5390, train_acc: 0.7965, time: 0.2235
+##### def test(): Valid  loss: 2.1643  acc: 0.4171  f1: 0.4081
+##### def test(): Valid  loss: 2.1643  acc: 0.4171  f1: 0.4081  inference Time: 0.07083630561828613
+Epoch 66, train_loss: 11.6601, train_acc: 0.7965, time: 0.2234
+Epoch 67, train_loss: 11.6144, train_acc: 0.7879, time: 0.2233
+Epoch 68, train_loss: 11.6070, train_acc: 0.8052, time: 0.2232
+Epoch 69, train_loss: 11.5605, train_acc: 0.8312, time: 0.2233
+Epoch 70, train_loss: 11.5623, train_acc: 0.8225, time: 0.2233
+##### def test(): Valid  loss: 2.1766  acc: 0.4550  f1: 0.4530
+##### def test(): Valid  loss: 2.1766  acc: 0.4550  f1: 0.4530  inference Time: 0.07100796699523926
+Epoch 71, train_loss: 11.5631, train_acc: 0.8182, time: 0.2235
+Epoch 72, train_loss: 11.5875, train_acc: 0.8182, time: 0.2236
+Epoch 73, train_loss: 11.5398, train_acc: 0.8095, time: 0.2233
+Epoch 74, train_loss: 11.5799, train_acc: 0.8225, time: 0.2238
+Epoch 75, train_loss: 11.6386, train_acc: 0.8095, time: 0.2239
+##### def test(): Valid  loss: 2.1642  acc: 0.4597  f1: 0.4575
+##### def test(): Valid  loss: 2.1642  acc: 0.4597  f1: 0.4575  inference Time: 0.07108426094055176
+Epoch 76, train_loss: 11.5484, train_acc: 0.8701, time: 0.2239
+Epoch 77, train_loss: 11.5341, train_acc: 0.8442, time: 0.2238
+Epoch 78, train_loss: 11.5854, train_acc: 0.8225, time: 0.2243
+Epoch 79, train_loss: 11.5430, train_acc: 0.8701, time: 0.2241
+Epoch 80, train_loss: 11.5222, train_acc: 0.8528, time: 0.2240
+##### def test(): Valid  loss: 2.1749  acc: 0.4550  f1: 0.4505
+##### def test(): Valid  loss: 2.1749  acc: 0.4550  f1: 0.4505  inference Time: 0.07114267349243164
+Epoch 81, train_loss: 11.6340, train_acc: 0.8788, time: 0.2242
+Epoch 82, train_loss: 11.4670, train_acc: 0.8528, time: 0.2242
+Epoch 83, train_loss: 11.4581, train_acc: 0.8788, time: 0.2242
+Epoch 84, train_loss: 11.4971, train_acc: 0.8658, time: 0.2239
+Epoch 85, train_loss: 11.5414, train_acc: 0.8658, time: 0.2237
+##### def test(): Valid  loss: 2.1784  acc: 0.4597  f1: 0.4577
+##### def test(): Valid  loss: 2.1784  acc: 0.4597  f1: 0.4577  inference Time: 0.07103824615478516
+Epoch 86, train_loss: 11.6236, train_acc: 0.8355, time: 0.2238
+Epoch 87, train_loss: 11.4730, train_acc: 0.8528, time: 0.2239
+Epoch 88, train_loss: 11.4457, train_acc: 0.8528, time: 0.2240
+Epoch 89, train_loss: 11.5036, train_acc: 0.8788, time: 0.2241
+Epoch 90, train_loss: 11.4478, train_acc: 0.8961, time: 0.2241
+##### def test(): Valid  loss: 2.1729  acc: 0.4739  f1: 0.4759
+##### def test(): Valid  loss: 2.1729  acc: 0.4739  f1: 0.4759  inference Time: 0.07079744338989258
+Epoch 91, train_loss: 11.4517, train_acc: 0.8355, time: 0.2241
+Epoch 92, train_loss: 11.4292, train_acc: 0.8874, time: 0.2238
+Epoch 93, train_loss: 11.6577, train_acc: 0.8442, time: 0.2238
+Epoch 94, train_loss: 11.5871, train_acc: 0.9004, time: 0.2240
+Epoch 95, train_loss: 11.5073, train_acc: 0.8788, time: 0.2243
+##### def test(): Valid  loss: 2.1802  acc: 0.4597  f1: 0.4281
+##### def test(): Valid  loss: 2.1802  acc: 0.4597  f1: 0.4281  inference Time: 0.07121729850769043
+Epoch 96, train_loss: 11.4881, train_acc: 0.8788, time: 0.2241
+Epoch 97, train_loss: 11.5125, train_acc: 0.8961, time: 0.2241
+Epoch 98, train_loss: 11.4278, train_acc: 0.8745, time: 0.2236
+Epoch 99, train_loss: 11.5213, train_acc: 0.8571, time: 0.2240
+Epoch 100, train_loss: 11.3822, train_acc: 0.8745, time: 0.2242
+##### def test(): Valid  loss: 2.1629  acc: 0.4645  f1: 0.4683
+##### def test(): Valid  loss: 2.1629  acc: 0.4645  f1: 0.4683  inference Time: 0.0713355541229248
+##### def train(): VALID: VALID ACC 0.4739 VALID F1 0.4759 EPOCH 90
+##### def train(): VALID: TEST ACC 0.4878 TEST F1 0.2838 EPOCH 90
+##### def train(): GLOBAL: TEST ACC 0.5181 TEST F1 0.2914 EPOCH 65
+Epoch 101, train_loss: 11.4666, train_acc: 0.8571, time: 0.2243
+Epoch 102, train_loss: 11.4247, train_acc: 0.8918, time: 0.2243
+Epoch 103, train_loss: 11.5234, train_acc: 0.8788, time: 0.2239
+Epoch 104, train_loss: 11.4764, train_acc: 0.9048, time: 0.2240
+Epoch 105, train_loss: 11.5380, train_acc: 0.8918, time: 0.2247
+##### def test(): Valid  loss: 2.1810  acc: 0.4692  f1: 0.4321
+##### def test(): Valid  loss: 2.1810  acc: 0.4692  f1: 0.4321  inference Time: 0.07123517990112305
+Epoch 106, train_loss: 11.4480, train_acc: 0.8961, time: 0.2242
+Epoch 107, train_loss: 11.3746, train_acc: 0.8745, time: 0.2244
+Epoch 108, train_loss: 11.5141, train_acc: 0.8615, time: 0.2244
+Epoch 109, train_loss: 11.3725, train_acc: 0.9091, time: 0.2241
+Epoch 110, train_loss: 11.3936, train_acc: 0.8788, time: 0.2244
+##### def test(): Valid  loss: 2.1848  acc: 0.4787  f1: 0.4823
+##### def test(): Valid  loss: 2.1848  acc: 0.4787  f1: 0.4823  inference Time: 0.07124114036560059
+Epoch 111, train_loss: 11.4233, train_acc: 0.9048, time: 0.2245
+Epoch 112, train_loss: 11.3804, train_acc: 0.9177, time: 0.2235
+Epoch 113, train_loss: 11.4225, train_acc: 0.8745, time: 0.2232
+Epoch 114, train_loss: 11.3960, train_acc: 0.8831, time: 0.2231
+Epoch 115, train_loss: 11.4591, train_acc: 0.8615, time: 0.2227
+##### def test(): Valid  loss: 2.1881  acc: 0.4645  f1: 0.4337
+##### def test(): Valid  loss: 2.1881  acc: 0.4645  f1: 0.4337  inference Time: 0.07073426246643066
+Epoch 116, train_loss: 11.4197, train_acc: 0.8961, time: 0.2228
+Epoch 117, train_loss: 11.4090, train_acc: 0.8918, time: 0.2228
+Epoch 118, train_loss: 11.4226, train_acc: 0.9134, time: 0.2228
+Epoch 119, train_loss: 11.4087, train_acc: 0.8918, time: 0.2233
+Epoch 120, train_loss: 11.4352, train_acc: 0.9048, time: 0.2233
+##### def test(): Valid  loss: 2.1743  acc: 0.4787  f1: 0.4458
+##### def test(): Valid  loss: 2.1743  acc: 0.4787  f1: 0.4458  inference Time: 0.07101154327392578
+Epoch 121, train_loss: 11.3489, train_acc: 0.9091, time: 0.2230
+Epoch 122, train_loss: 11.3995, train_acc: 0.8788, time: 0.2231
+Epoch 123, train_loss: 11.4673, train_acc: 0.9091, time: 0.2233
+Epoch 124, train_loss: 11.4541, train_acc: 0.9177, time: 0.2229
+Epoch 125, train_loss: 11.4254, train_acc: 0.9134, time: 0.2228
+##### def test(): Valid  loss: 2.1902  acc: 0.4597  f1: 0.4273
+##### def test(): Valid  loss: 2.1902  acc: 0.4597  f1: 0.4273  inference Time: 0.07081389427185059
+Epoch 126, train_loss: 11.3950, train_acc: 0.8918, time: 0.2231
+Epoch 127, train_loss: 11.4213, train_acc: 0.8745, time: 0.2231
+Epoch 128, train_loss: 11.3362, train_acc: 0.8961, time: 0.2231
+Epoch 129, train_loss: 11.4248, train_acc: 0.8918, time: 0.2234
+Epoch 130, train_loss: 11.3569, train_acc: 0.9048, time: 0.2234
+##### def test(): Valid  loss: 2.1918  acc: 0.4597  f1: 0.4594
+##### def test(): Valid  loss: 2.1918  acc: 0.4597  f1: 0.4594  inference Time: 0.07067060470581055
+Epoch 131, train_loss: 11.3412, train_acc: 0.8918, time: 0.2233
+Epoch 132, train_loss: 11.3285, train_acc: 0.9004, time: 0.2231
+Epoch 133, train_loss: 11.4639, train_acc: 0.8961, time: 0.2226
+Epoch 134, train_loss: 11.3099, train_acc: 0.9004, time: 0.2227
+Epoch 135, train_loss: 11.4262, train_acc: 0.8961, time: 0.2229
+##### def test(): Valid  loss: 2.1729  acc: 0.4834  f1: 0.4865
+##### def test(): Valid  loss: 2.1729  acc: 0.4834  f1: 0.4865  inference Time: 0.07085585594177246
+Epoch 136, train_loss: 11.3646, train_acc: 0.8788, time: 0.2232
+Epoch 137, train_loss: 11.3311, train_acc: 0.9177, time: 0.2230
+Epoch 138, train_loss: 11.6228, train_acc: 0.8874, time: 0.2230
+Epoch 139, train_loss: 11.4265, train_acc: 0.9048, time: 0.2232
+Epoch 140, train_loss: 11.3578, train_acc: 0.9091, time: 0.2230
+##### def test(): Valid  loss: 2.1773  acc: 0.4787  f1: 0.4435
+##### def test(): Valid  loss: 2.1773  acc: 0.4787  f1: 0.4435  inference Time: 0.07054328918457031
+Epoch 141, train_loss: 11.3294, train_acc: 0.9004, time: 0.2230
+Epoch 142, train_loss: 11.3802, train_acc: 0.9091, time: 0.2227
+Epoch 143, train_loss: 11.3338, train_acc: 0.9048, time: 0.2226
+Epoch 144, train_loss: 11.3312, train_acc: 0.9048, time: 0.2227
+Epoch 145, train_loss: 11.3318, train_acc: 0.9177, time: 0.2227
+##### def test(): Valid  loss: 2.1816  acc: 0.4360  f1: 0.4033
+##### def test(): Valid  loss: 2.1816  acc: 0.4360  f1: 0.4033  inference Time: 0.07077980041503906
+Epoch 146, train_loss: 11.3130, train_acc: 0.9004, time: 0.2233
+Epoch 147, train_loss: 11.3338, train_acc: 0.9134, time: 0.2230
+Epoch 148, train_loss: 11.3410, train_acc: 0.9048, time: 0.2230
+Epoch 149, train_loss: 11.4052, train_acc: 0.9004, time: 0.2232
+Epoch 150, train_loss: 11.2950, train_acc: 0.8874, time: 0.2229
+##### def test(): Valid  loss: 2.1784  acc: 0.4929  f1: 0.4969
+##### def test(): Valid  loss: 2.1784  acc: 0.4929  f1: 0.4969  inference Time: 0.07050943374633789
+Epoch 151, train_loss: 11.3622, train_acc: 0.8961, time: 0.2231
+Epoch 152, train_loss: 11.2832, train_acc: 0.8961, time: 0.2227
+Epoch 153, train_loss: 11.3586, train_acc: 0.8918, time: 0.2226
+Epoch 154, train_loss: 11.3622, train_acc: 0.9091, time: 0.2230
+Epoch 155, train_loss: 11.3312, train_acc: 0.9177, time: 0.2229
+##### def test(): Valid  loss: 2.1778  acc: 0.4692  f1: 0.4354
+##### def test(): Valid  loss: 2.1778  acc: 0.4692  f1: 0.4354  inference Time: 0.07095766067504883
+Epoch 156, train_loss: 11.3441, train_acc: 0.9177, time: 0.2231
+Epoch 157, train_loss: 11.3155, train_acc: 0.9221, time: 0.2232
+Epoch 158, train_loss: 11.3248, train_acc: 0.9004, time: 0.2237
+Epoch 159, train_loss: 11.3115, train_acc: 0.9134, time: 0.2236
+Epoch 160, train_loss: 11.2831, train_acc: 0.9091, time: 0.2233
+##### def test(): Valid  loss: 2.1839  acc: 0.4597  f1: 0.4209
+##### def test(): Valid  loss: 2.1839  acc: 0.4597  f1: 0.4209  inference Time: 0.07105660438537598
+Epoch 161, train_loss: 11.2921, train_acc: 0.9134, time: 0.2240
+Epoch 162, train_loss: 11.2976, train_acc: 0.9048, time: 0.2234
+Epoch 163, train_loss: 11.2995, train_acc: 0.8961, time: 0.2234
+Epoch 164, train_loss: 11.3178, train_acc: 0.9221, time: 0.2235
+Epoch 165, train_loss: 11.3293, train_acc: 0.8961, time: 0.2237
+##### def test(): Valid  loss: 2.1828  acc: 0.4787  f1: 0.4414
+##### def test(): Valid  loss: 2.1828  acc: 0.4787  f1: 0.4414  inference Time: 0.07127547264099121
+Epoch 166, train_loss: 11.3305, train_acc: 0.9177, time: 0.2238
+Epoch 167, train_loss: 11.3581, train_acc: 0.9134, time: 0.2238
+Epoch 168, train_loss: 11.3583, train_acc: 0.9264, time: 0.2233
+Epoch 169, train_loss: 11.3667, train_acc: 0.9221, time: 0.2236
+Epoch 170, train_loss: 11.2586, train_acc: 0.9091, time: 0.2237
+##### def test(): Valid  loss: 2.1812  acc: 0.4787  f1: 0.4802
+##### def test(): Valid  loss: 2.1812  acc: 0.4787  f1: 0.4802  inference Time: 0.07089090347290039
+Epoch 171, train_loss: 11.3143, train_acc: 0.9307, time: 0.2233
+Epoch 172, train_loss: 11.3011, train_acc: 0.9134, time: 0.2236
+Epoch 173, train_loss: 11.3195, train_acc: 0.9221, time: 0.2236
+Epoch 174, train_loss: 11.2768, train_acc: 0.9004, time: 0.2232
+Epoch 175, train_loss: 11.2552, train_acc: 0.9177, time: 0.2232
+##### def test(): Valid  loss: 2.1876  acc: 0.4739  f1: 0.4375
+##### def test(): Valid  loss: 2.1876  acc: 0.4739  f1: 0.4375  inference Time: 0.07093000411987305
+Epoch 176, train_loss: 11.2867, train_acc: 0.9221, time: 0.2236
+Epoch 177, train_loss: 11.2765, train_acc: 0.9177, time: 0.2233
+Epoch 178, train_loss: 11.2892, train_acc: 0.9221, time: 0.2234
+Epoch 179, train_loss: 11.2917, train_acc: 0.8658, time: 0.2237
+Epoch 180, train_loss: 11.3210, train_acc: 0.8745, time: 0.2238
+##### def test(): Valid  loss: 2.1810  acc: 0.4645  f1: 0.4639
+##### def test(): Valid  loss: 2.1810  acc: 0.4645  f1: 0.4639  inference Time: 0.0707712173461914
+Epoch 181, train_loss: 11.3876, train_acc: 0.9177, time: 0.2236
+Epoch 182, train_loss: 11.3724, train_acc: 0.9351, time: 0.2234
+Epoch 183, train_loss: 11.2802, train_acc: 0.9091, time: 0.2235
+Epoch 184, train_loss: 11.3280, train_acc: 0.9177, time: 0.2237
+Epoch 185, train_loss: 11.3031, train_acc: 0.8961, time: 0.2236
+##### def test(): Valid  loss: 2.1796  acc: 0.4739  f1: 0.4711
+##### def test(): Valid  loss: 2.1796  acc: 0.4739  f1: 0.4711  inference Time: 0.07095932960510254
+Epoch 186, train_loss: 11.2178, train_acc: 0.9048, time: 0.2235
+Epoch 187, train_loss: 11.3459, train_acc: 0.8874, time: 0.2237
+Epoch 188, train_loss: 11.2802, train_acc: 0.9221, time: 0.2235
+Epoch 189, train_loss: 11.2665, train_acc: 0.9091, time: 0.2232
+Epoch 190, train_loss: 11.2587, train_acc: 0.9004, time: 0.2234
+##### def test(): Valid  loss: 2.1765  acc: 0.4455  f1: 0.3995
+##### def test(): Valid  loss: 2.1765  acc: 0.4455  f1: 0.3995  inference Time: 0.07109856605529785
+Epoch 191, train_loss: 11.3751, train_acc: 0.9221, time: 0.2238
+Epoch 192, train_loss: 11.2331, train_acc: 0.9307, time: 0.2235
+Epoch 193, train_loss: 11.2486, train_acc: 0.9221, time: 0.2237
+Epoch 194, train_loss: 11.2467, train_acc: 0.9394, time: 0.2242
+Epoch 195, train_loss: 11.3027, train_acc: 0.9134, time: 0.2234
+##### def test(): Valid  loss: 2.1725  acc: 0.4692  f1: 0.4315
+##### def test(): Valid  loss: 2.1725  acc: 0.4692  f1: 0.4315  inference Time: 0.07085609436035156
+Epoch 196, train_loss: 11.3559, train_acc: 0.9134, time: 0.2237
+Epoch 197, train_loss: 11.2537, train_acc: 0.9048, time: 0.2233
+Epoch 198, train_loss: 11.3057, train_acc: 0.9134, time: 0.2238
+Epoch 199, train_loss: 11.3510, train_acc: 0.9048, time: 0.2237
+Epoch 200, train_loss: 11.3110, train_acc: 0.9177, time: 0.2239
+##### def test(): Valid  loss: 2.1677  acc: 0.4597  f1: 0.4645
+##### def test(): Valid  loss: 2.1677  acc: 0.4597  f1: 0.4645  inference Time: 0.07113075256347656
+##### def train(): VALID: VALID ACC 0.4929 VALID F1 0.4969 EPOCH 150
+##### def train(): VALID: TEST ACC 0.5063 TEST F1 0.2952 EPOCH 150
+##### def train(): GLOBAL: TEST ACC 0.5181 TEST F1 0.2914 EPOCH 65
+Epoch 201, train_loss: 11.2816, train_acc: 0.9134, time: 0.2237
+Epoch 202, train_loss: 11.2845, train_acc: 0.9177, time: 0.2239
+Epoch 203, train_loss: 11.2919, train_acc: 0.9177, time: 0.2240
+Epoch 204, train_loss: 11.2873, train_acc: 0.9177, time: 0.2241
+Epoch 205, train_loss: 11.3259, train_acc: 0.9134, time: 0.2241
+##### def test(): Valid  loss: 2.1762  acc: 0.4692  f1: 0.4320
+##### def test(): Valid  loss: 2.1762  acc: 0.4692  f1: 0.4320  inference Time: 0.0712277889251709
+Epoch 206, train_loss: 11.4559, train_acc: 0.9177, time: 0.2242
+Epoch 207, train_loss: 11.2897, train_acc: 0.9307, time: 0.2243
+Epoch 208, train_loss: 11.2669, train_acc: 0.9091, time: 0.2245
+Epoch 209, train_loss: 11.2509, train_acc: 0.9264, time: 0.2242
+Epoch 210, train_loss: 11.2410, train_acc: 0.9134, time: 0.2243
+##### def test(): Valid  loss: 2.1790  acc: 0.4787  f1: 0.4783
+##### def test(): Valid  loss: 2.1790  acc: 0.4787  f1: 0.4783  inference Time: 0.07133650779724121
+Epoch 211, train_loss: 11.2870, train_acc: 0.9091, time: 0.2242
+Epoch 212, train_loss: 11.2825, train_acc: 0.9091, time: 0.2244
+Epoch 213, train_loss: 11.2573, train_acc: 0.9091, time: 0.2246
+Epoch 214, train_loss: 11.4420, train_acc: 0.9177, time: 0.2239
+Epoch 215, train_loss: 11.2557, train_acc: 0.9221, time: 0.2242
+##### def test(): Valid  loss: 2.1902  acc: 0.4787  f1: 0.4302
+##### def test(): Valid  loss: 2.1902  acc: 0.4787  f1: 0.4302  inference Time: 0.07137107849121094
+Epoch 216, train_loss: 11.2860, train_acc: 0.9221, time: 0.2243
+Epoch 217, train_loss: 11.2683, train_acc: 0.9264, time: 0.2243
+Epoch 218, train_loss: 11.2551, train_acc: 0.9134, time: 0.2244
+Epoch 219, train_loss: 11.3132, train_acc: 0.8961, time: 0.2240
+Epoch 220, train_loss: 11.2817, train_acc: 0.9264, time: 0.2239
+##### def test(): Valid  loss: 2.1769  acc: 0.4834  f1: 0.4895
+##### def test(): Valid  loss: 2.1769  acc: 0.4834  f1: 0.4895  inference Time: 0.07109642028808594
+Epoch 221, train_loss: 11.2559, train_acc: 0.9307, time: 0.2246
+Epoch 222, train_loss: 11.2642, train_acc: 0.9177, time: 0.2243
+Epoch 223, train_loss: 11.2548, train_acc: 0.9221, time: 0.2246
+Epoch 224, train_loss: 11.3097, train_acc: 0.9264, time: 0.2247
+Epoch 225, train_loss: 11.2876, train_acc: 0.9221, time: 0.2241
+##### def test(): Valid  loss: 2.1749  acc: 0.4597  f1: 0.4642
+##### def test(): Valid  loss: 2.1749  acc: 0.4597  f1: 0.4642  inference Time: 0.07119631767272949
+Epoch 226, train_loss: 11.2797, train_acc: 0.9221, time: 0.2248
+Epoch 227, train_loss: 11.3337, train_acc: 0.9177, time: 0.2244
+Epoch 228, train_loss: 11.2733, train_acc: 0.9221, time: 0.2244
+Epoch 229, train_loss: 11.3155, train_acc: 0.9134, time: 0.2246
+Epoch 230, train_loss: 11.2360, train_acc: 0.9221, time: 0.2242
+##### def test(): Valid  loss: 2.1777  acc: 0.4739  f1: 0.4771
+##### def test(): Valid  loss: 2.1777  acc: 0.4739  f1: 0.4771  inference Time: 0.07106184959411621
+Epoch 231, train_loss: 11.2585, train_acc: 0.9264, time: 0.2244
+Epoch 232, train_loss: 11.2393, train_acc: 0.9134, time: 0.2246
+Epoch 233, train_loss: 11.2666, train_acc: 0.9221, time: 0.2243
+Epoch 234, train_loss: 11.2398, train_acc: 0.9177, time: 0.2246
+Epoch 235, train_loss: 11.3082, train_acc: 0.9091, time: 0.2243
+##### def test(): Valid  loss: 2.1847  acc: 0.4739  f1: 0.4268
+##### def test(): Valid  loss: 2.1847  acc: 0.4739  f1: 0.4268  inference Time: 0.07108187675476074
+Epoch 236, train_loss: 11.2666, train_acc: 0.9177, time: 0.2248
+Epoch 237, train_loss: 11.3343, train_acc: 0.9091, time: 0.2242
+Epoch 238, train_loss: 11.2748, train_acc: 0.9307, time: 0.2243
+Epoch 239, train_loss: 11.2500, train_acc: 0.9091, time: 0.2246
+Epoch 240, train_loss: 11.2867, train_acc: 0.9177, time: 0.2247
+##### def test(): Valid  loss: 2.1774  acc: 0.4645  f1: 0.4703
+##### def test(): Valid  loss: 2.1774  acc: 0.4645  f1: 0.4703  inference Time: 0.07095813751220703
+Epoch 241, train_loss: 11.2611, train_acc: 0.9134, time: 0.2247
+Epoch 242, train_loss: 11.2901, train_acc: 0.8961, time: 0.2244
+Epoch 243, train_loss: 11.2445, train_acc: 0.9307, time: 0.2244
+Epoch 244, train_loss: 11.2557, train_acc: 0.9177, time: 0.2246
+Epoch 245, train_loss: 11.2000, train_acc: 0.9177, time: 0.2246
+##### def test(): Valid  loss: 2.1660  acc: 0.4787  f1: 0.4798
+##### def test(): Valid  loss: 2.1660  acc: 0.4787  f1: 0.4798  inference Time: 0.07119274139404297
+Epoch 246, train_loss: 11.3197, train_acc: 0.9177, time: 0.2246
+Epoch 247, train_loss: 11.2658, train_acc: 0.9091, time: 0.2251
+Epoch 248, train_loss: 11.2917, train_acc: 0.9264, time: 0.2250
+Epoch 249, train_loss: 11.2495, train_acc: 0.9221, time: 0.2252
+Epoch 250, train_loss: 11.2312, train_acc: 0.9134, time: 0.2249
+##### def test(): Valid  loss: 2.1679  acc: 0.4597  f1: 0.4227
+##### def test(): Valid  loss: 2.1679  acc: 0.4597  f1: 0.4227  inference Time: 0.07129955291748047
+Epoch 251, train_loss: 11.2459, train_acc: 0.9307, time: 0.2246
+Epoch 252, train_loss: 11.2154, train_acc: 0.9437, time: 0.2253
+Epoch 253, train_loss: 11.2641, train_acc: 0.9221, time: 0.2249
+Epoch 254, train_loss: 11.2324, train_acc: 0.9307, time: 0.2250
+Epoch 255, train_loss: 11.2676, train_acc: 0.9134, time: 0.2243
+##### def test(): Valid  loss: 2.1606  acc: 0.4834  f1: 0.4852
+##### def test(): Valid  loss: 2.1606  acc: 0.4834  f1: 0.4852  inference Time: 0.07113480567932129
+Epoch 256, train_loss: 11.2895, train_acc: 0.9307, time: 0.2246
+Epoch 257, train_loss: 11.2010, train_acc: 0.9177, time: 0.2242
+Epoch 258, train_loss: 11.2912, train_acc: 0.9351, time: 0.2243
+Epoch 259, train_loss: 11.2717, train_acc: 0.9221, time: 0.2246
+Epoch 260, train_loss: 11.3634, train_acc: 0.9134, time: 0.2247
+##### def test(): Valid  loss: 2.1749  acc: 0.4455  f1: 0.4098
+##### def test(): Valid  loss: 2.1749  acc: 0.4455  f1: 0.4098  inference Time: 0.0709841251373291
+Epoch 261, train_loss: 11.3495, train_acc: 0.9134, time: 0.2246
+Epoch 262, train_loss: 11.2643, train_acc: 0.9307, time: 0.2248
+Epoch 263, train_loss: 11.2327, train_acc: 0.9134, time: 0.2249
+Epoch 264, train_loss: 11.2095, train_acc: 0.9351, time: 0.2251
+Epoch 265, train_loss: 11.2173, train_acc: 0.9351, time: 0.2260
+##### def test(): Valid  loss: 2.1719  acc: 0.4882  f1: 0.4871
+##### def test(): Valid  loss: 2.1719  acc: 0.4882  f1: 0.4871  inference Time: 0.07126498222351074
+Epoch 266, train_loss: 11.2683, train_acc: 0.9351, time: 0.2253
+Epoch 267, train_loss: 11.2176, train_acc: 0.9307, time: 0.2257
+Epoch 268, train_loss: 11.2347, train_acc: 0.9134, time: 0.2252
+Epoch 269, train_loss: 11.2911, train_acc: 0.9221, time: 0.2255
+Epoch 270, train_loss: 11.2180, train_acc: 0.9307, time: 0.2250
+##### def test(): Valid  loss: 2.1749  acc: 0.4597  f1: 0.4266
+##### def test(): Valid  loss: 2.1749  acc: 0.4597  f1: 0.4266  inference Time: 0.07138776779174805
+Epoch 271, train_loss: 11.2397, train_acc: 0.9134, time: 0.2253
+Epoch 272, train_loss: 11.2345, train_acc: 0.9177, time: 0.2253
+Epoch 273, train_loss: 11.2613, train_acc: 0.9091, time: 0.2255
+Epoch 274, train_loss: 11.2612, train_acc: 0.9307, time: 0.2252
+Epoch 275, train_loss: 11.2079, train_acc: 0.9221, time: 0.2249
+##### def test(): Valid  loss: 2.1613  acc: 0.4645  f1: 0.4656
+##### def test(): Valid  loss: 2.1613  acc: 0.4645  f1: 0.4656  inference Time: 0.07152867317199707
+Epoch 276, train_loss: 11.2377, train_acc: 0.9134, time: 0.2255
+Epoch 277, train_loss: 11.2376, train_acc: 0.9221, time: 0.2254
+Epoch 278, train_loss: 11.2187, train_acc: 0.9307, time: 0.2257
+Epoch 279, train_loss: 11.2022, train_acc: 0.9221, time: 0.2252
+Epoch 280, train_loss: 11.2915, train_acc: 0.9134, time: 0.2252
+##### def test(): Valid  loss: 2.1791  acc: 0.4550  f1: 0.4176
+##### def test(): Valid  loss: 2.1791  acc: 0.4550  f1: 0.4176  inference Time: 0.0714728832244873
+Epoch 281, train_loss: 11.2320, train_acc: 0.9264, time: 0.2253
+Epoch 282, train_loss: 11.2244, train_acc: 0.9134, time: 0.2257
+Epoch 283, train_loss: 11.2823, train_acc: 0.9221, time: 0.2251
+Epoch 284, train_loss: 11.2383, train_acc: 0.9221, time: 0.2255
+Epoch 285, train_loss: 11.2368, train_acc: 0.9221, time: 0.2254
+##### def test(): Valid  loss: 2.1636  acc: 0.4597  f1: 0.4617
+##### def test(): Valid  loss: 2.1636  acc: 0.4597  f1: 0.4617  inference Time: 0.07156538963317871
+Epoch 286, train_loss: 11.2514, train_acc: 0.9307, time: 0.2254
+Epoch 287, train_loss: 11.2311, train_acc: 0.8961, time: 0.2257
+Epoch 288, train_loss: 11.2134, train_acc: 0.9264, time: 0.2254
+Epoch 289, train_loss: 11.2580, train_acc: 0.9264, time: 0.2254
+Epoch 290, train_loss: 11.2162, train_acc: 0.9351, time: 0.2258
+##### def test(): Valid  loss: 2.1785  acc: 0.4502  f1: 0.4519
+##### def test(): Valid  loss: 2.1785  acc: 0.4502  f1: 0.4519  inference Time: 0.07135272026062012
+Epoch 291, train_loss: 11.2768, train_acc: 0.9134, time: 0.2259
+Epoch 292, train_loss: 11.1980, train_acc: 0.9221, time: 0.2251
+Epoch 293, train_loss: 11.2025, train_acc: 0.9307, time: 0.2253
+Epoch 294, train_loss: 11.2322, train_acc: 0.9264, time: 0.2256
+Epoch 295, train_loss: 11.2169, train_acc: 0.9264, time: 0.2253
+##### def test(): Valid  loss: 2.1751  acc: 0.4692  f1: 0.4732
+##### def test(): Valid  loss: 2.1751  acc: 0.4692  f1: 0.4732  inference Time: 0.07141613960266113
+Epoch 296, train_loss: 11.2492, train_acc: 0.9091, time: 0.2258
+Epoch 297, train_loss: 11.3262, train_acc: 0.9394, time: 0.2255
+Epoch 298, train_loss: 11.2320, train_acc: 0.9264, time: 0.2254
+Epoch 299, train_loss: 11.2066, train_acc: 0.9177, time: 0.2253
+Epoch 300, train_loss: 11.2831, train_acc: 0.9134, time: 0.2250
+##### def test(): Valid  loss: 2.1789  acc: 0.4787  f1: 0.4779
+##### def test(): Valid  loss: 2.1789  acc: 0.4787  f1: 0.4779  inference Time: 0.07152199745178223
+##### def train(): VALID: VALID ACC 0.4929 VALID F1 0.4969 EPOCH 150
+##### def train(): VALID: TEST ACC 0.5063 TEST F1 0.2952 EPOCH 150
+##### def train(): GLOBAL: TEST ACC 0.5265 TEST F1 0.2917 EPOCH 300
+Epoch 301, train_loss: 11.2254, train_acc: 0.9091, time: 0.2257
+Epoch 302, train_loss: 11.2471, train_acc: 0.9264, time: 0.2256
+Epoch 303, train_loss: 11.2319, train_acc: 0.9264, time: 0.2253
+Epoch 304, train_loss: 11.2913, train_acc: 0.9134, time: 0.2250
+Epoch 305, train_loss: 11.1986, train_acc: 0.9351, time: 0.2251
+##### def test(): Valid  loss: 2.1883  acc: 0.4597  f1: 0.4224
+##### def test(): Valid  loss: 2.1883  acc: 0.4597  f1: 0.4224  inference Time: 0.07152509689331055
+Epoch 306, train_loss: 11.2152, train_acc: 0.9048, time: 0.2258
+Epoch 307, train_loss: 11.1970, train_acc: 0.9221, time: 0.2259
+Epoch 308, train_loss: 11.1807, train_acc: 0.9221, time: 0.2253
+Epoch 309, train_loss: 11.2378, train_acc: 0.9177, time: 0.2254
+Epoch 310, train_loss: 11.1920, train_acc: 0.9177, time: 0.2256
+##### def test(): Valid  loss: 2.1780  acc: 0.4597  f1: 0.4591
+##### def test(): Valid  loss: 2.1780  acc: 0.4597  f1: 0.4591  inference Time: 0.07152605056762695
+Epoch 311, train_loss: 11.2171, train_acc: 0.9221, time: 0.2255
+Epoch 312, train_loss: 11.2854, train_acc: 0.9307, time: 0.2253
+Epoch 313, train_loss: 11.2118, train_acc: 0.9221, time: 0.2254
+Epoch 314, train_loss: 11.2436, train_acc: 0.9307, time: 0.2252
+Epoch 315, train_loss: 11.2323, train_acc: 0.9177, time: 0.2257
+##### def test(): Valid  loss: 2.1691  acc: 0.4739  f1: 0.4355
+##### def test(): Valid  loss: 2.1691  acc: 0.4739  f1: 0.4355  inference Time: 0.07125210762023926
+Epoch 316, train_loss: 11.2656, train_acc: 0.9177, time: 0.2254
+Epoch 317, train_loss: 11.2520, train_acc: 0.9177, time: 0.2252
+Epoch 318, train_loss: 11.2084, train_acc: 0.9437, time: 0.2250
+Epoch 319, train_loss: 11.2041, train_acc: 0.9177, time: 0.2255
+Epoch 320, train_loss: 11.2671, train_acc: 0.9091, time: 0.2252
+##### def test(): Valid  loss: 2.1774  acc: 0.4550  f1: 0.4551
+##### def test(): Valid  loss: 2.1774  acc: 0.4550  f1: 0.4551  inference Time: 0.07139396667480469
+Epoch 321, train_loss: 11.2154, train_acc: 0.9221, time: 0.2255
+Epoch 322, train_loss: 11.2213, train_acc: 0.9264, time: 0.2253
+Epoch 323, train_loss: 11.1980, train_acc: 0.9264, time: 0.2253
+Epoch 324, train_loss: 11.1701, train_acc: 0.9221, time: 0.2255
+Epoch 325, train_loss: 11.2136, train_acc: 0.9221, time: 0.2253
+##### def test(): Valid  loss: 2.1672  acc: 0.4645  f1: 0.4650
+##### def test(): Valid  loss: 2.1672  acc: 0.4645  f1: 0.4650  inference Time: 0.07150387763977051
+Epoch 326, train_loss: 11.2020, train_acc: 0.9394, time: 0.2253
+Epoch 327, train_loss: 11.1861, train_acc: 0.9307, time: 0.2253
+Epoch 328, train_loss: 11.1673, train_acc: 0.9264, time: 0.2257
+Epoch 329, train_loss: 11.2174, train_acc: 0.9221, time: 0.2252
+Epoch 330, train_loss: 11.1661, train_acc: 0.9307, time: 0.2253
+##### def test(): Valid  loss: 2.1706  acc: 0.4739  f1: 0.4671
+##### def test(): Valid  loss: 2.1706  acc: 0.4739  f1: 0.4671  inference Time: 0.07200384140014648
+Epoch 331, train_loss: 11.1990, train_acc: 0.9048, time: 0.2260
+Epoch 332, train_loss: 11.1933, train_acc: 0.9351, time: 0.2258
+Epoch 333, train_loss: 11.2000, train_acc: 0.9307, time: 0.2250
+Epoch 334, train_loss: 11.1873, train_acc: 0.9394, time: 0.2257
+Epoch 335, train_loss: 11.2665, train_acc: 0.9221, time: 0.2257
+##### def test(): Valid  loss: 2.1697  acc: 0.4692  f1: 0.4778
+##### def test(): Valid  loss: 2.1697  acc: 0.4692  f1: 0.4778  inference Time: 0.0716848373413086
+Epoch 336, train_loss: 11.1848, train_acc: 0.9134, time: 0.2256
+Epoch 337, train_loss: 11.1795, train_acc: 0.9307, time: 0.2253
+Epoch 338, train_loss: 11.1755, train_acc: 0.9221, time: 0.2263
+Epoch 339, train_loss: 11.1780, train_acc: 0.9307, time: 0.2256
+Epoch 340, train_loss: 11.1849, train_acc: 0.9307, time: 0.2264
+##### def test(): Valid  loss: 2.1694  acc: 0.4739  f1: 0.4760
+##### def test(): Valid  loss: 2.1694  acc: 0.4739  f1: 0.4760  inference Time: 0.07163858413696289
+Epoch 341, train_loss: 11.1913, train_acc: 0.9307, time: 0.2259
+Epoch 342, train_loss: 11.1804, train_acc: 0.9264, time: 0.2259
+Epoch 343, train_loss: 11.2153, train_acc: 0.9264, time: 0.2261
+Epoch 344, train_loss: 11.2112, train_acc: 0.9177, time: 0.2259
+Epoch 345, train_loss: 11.1780, train_acc: 0.9264, time: 0.2256
+##### def test(): Valid  loss: 2.1698  acc: 0.4597  f1: 0.4597
+##### def test(): Valid  loss: 2.1698  acc: 0.4597  f1: 0.4597  inference Time: 0.07172465324401855
+Epoch 346, train_loss: 11.2083, train_acc: 0.9221, time: 0.2259
+Epoch 347, train_loss: 11.2731, train_acc: 0.9307, time: 0.2254
+Epoch 348, train_loss: 11.1527, train_acc: 0.9307, time: 0.2260
+Epoch 349, train_loss: 11.2134, train_acc: 0.9177, time: 0.2262
+Epoch 350, train_loss: 11.2158, train_acc: 0.9307, time: 0.2259
+##### def test(): Valid  loss: 2.1731  acc: 0.4692  f1: 0.4743
+##### def test(): Valid  loss: 2.1731  acc: 0.4692  f1: 0.4743  inference Time: 0.07166838645935059
+Epoch 351, train_loss: 11.1788, train_acc: 0.9307, time: 0.2261
+Epoch 352, train_loss: 11.2376, train_acc: 0.9091, time: 0.2259
+Epoch 353, train_loss: 11.2151, train_acc: 0.9091, time: 0.2254
+Epoch 354, train_loss: 11.2842, train_acc: 0.9394, time: 0.2255
+Epoch 355, train_loss: 11.1848, train_acc: 0.9177, time: 0.2260
+##### def test(): Valid  loss: 2.1905  acc: 0.4645  f1: 0.4555
+##### def test(): Valid  loss: 2.1905  acc: 0.4645  f1: 0.4555  inference Time: 0.07158422470092773
+Epoch 356, train_loss: 11.2142, train_acc: 0.9134, time: 0.2256
+Epoch 357, train_loss: 11.1994, train_acc: 0.9264, time: 0.2255
+Epoch 358, train_loss: 11.1612, train_acc: 0.9264, time: 0.2255
+Epoch 359, train_loss: 11.3322, train_acc: 0.9177, time: 0.2258
+Epoch 360, train_loss: 11.2552, train_acc: 0.9091, time: 0.2252
+##### def test(): Valid  loss: 2.1555  acc: 0.4787  f1: 0.4765
+##### def test(): Valid  loss: 2.1555  acc: 0.4787  f1: 0.4765  inference Time: 0.07161593437194824
+Epoch 361, train_loss: 11.2359, train_acc: 0.9177, time: 0.2257
+Epoch 362, train_loss: 11.1831, train_acc: 0.9264, time: 0.2255
+Epoch 363, train_loss: 11.2251, train_acc: 0.9221, time: 0.2258
+Epoch 364, train_loss: 11.2113, train_acc: 0.9177, time: 0.2257
+Epoch 365, train_loss: 11.2029, train_acc: 0.9307, time: 0.2258
+##### def test(): Valid  loss: 2.1823  acc: 0.4645  f1: 0.4321
+##### def test(): Valid  loss: 2.1823  acc: 0.4645  f1: 0.4321  inference Time: 0.07177066802978516
+Epoch 366, train_loss: 11.1725, train_acc: 0.9351, time: 0.2257
+Epoch 367, train_loss: 11.2627, train_acc: 0.9221, time: 0.2259
+Epoch 368, train_loss: 11.2487, train_acc: 0.9264, time: 0.2256
+Epoch 369, train_loss: 11.2316, train_acc: 0.9264, time: 0.2257
+Epoch 370, train_loss: 11.1871, train_acc: 0.9351, time: 0.2256
+##### def test(): Valid  loss: 2.1755  acc: 0.4597  f1: 0.4584
+##### def test(): Valid  loss: 2.1755  acc: 0.4597  f1: 0.4584  inference Time: 0.07177948951721191
+Epoch 371, train_loss: 11.2280, train_acc: 0.9307, time: 0.2259
+Epoch 372, train_loss: 11.2119, train_acc: 0.9264, time: 0.2258
+Epoch 373, train_loss: 11.2085, train_acc: 0.9351, time: 0.2257
+Epoch 374, train_loss: 11.2233, train_acc: 0.9221, time: 0.2258
+Epoch 375, train_loss: 11.2033, train_acc: 0.9177, time: 0.2259
+##### def test(): Valid  loss: 2.1701  acc: 0.4550  f1: 0.4569
+##### def test(): Valid  loss: 2.1701  acc: 0.4550  f1: 0.4569  inference Time: 0.07151985168457031
+Epoch 376, train_loss: 11.2057, train_acc: 0.9351, time: 0.2255
+Epoch 377, train_loss: 11.2415, train_acc: 0.9264, time: 0.2254
+Epoch 378, train_loss: 11.2169, train_acc: 0.9351, time: 0.2256
+Epoch 379, train_loss: 11.2219, train_acc: 0.9307, time: 0.2259
+Epoch 380, train_loss: 11.1672, train_acc: 0.9264, time: 0.2252
+##### def test(): Valid  loss: 2.1776  acc: 0.4502  f1: 0.4563
+##### def test(): Valid  loss: 2.1776  acc: 0.4502  f1: 0.4563  inference Time: 0.07169842720031738
+Epoch 381, train_loss: 11.2355, train_acc: 0.9134, time: 0.2257
+Epoch 382, train_loss: 11.1465, train_acc: 0.9394, time: 0.2256
+Epoch 383, train_loss: 11.2138, train_acc: 0.9351, time: 0.2259
+Epoch 384, train_loss: 11.1803, train_acc: 0.9177, time: 0.2257
+Epoch 385, train_loss: 11.2479, train_acc: 0.9307, time: 0.2257
+##### def test(): Valid  loss: 2.1624  acc: 0.4692  f1: 0.4694
+##### def test(): Valid  loss: 2.1624  acc: 0.4692  f1: 0.4694  inference Time: 0.07194113731384277
+Epoch 386, train_loss: 11.1662, train_acc: 0.9351, time: 0.2255
+Epoch 387, train_loss: 11.2858, train_acc: 0.9221, time: 0.2259
+Epoch 388, train_loss: 11.1653, train_acc: 0.9307, time: 0.2254
+Epoch 389, train_loss: 11.1841, train_acc: 0.9177, time: 0.2256
+Epoch 390, train_loss: 11.2271, train_acc: 0.9351, time: 0.2261
+##### def test(): Valid  loss: 2.1760  acc: 0.4550  f1: 0.4604
+##### def test(): Valid  loss: 2.1760  acc: 0.4550  f1: 0.4604  inference Time: 0.07172608375549316
+Epoch 391, train_loss: 11.1748, train_acc: 0.9221, time: 0.2259
+Epoch 392, train_loss: 11.3141, train_acc: 0.9134, time: 0.2257
+Epoch 393, train_loss: 11.1895, train_acc: 0.9177, time: 0.2258
+Epoch 394, train_loss: 11.1953, train_acc: 0.9307, time: 0.2260
+Epoch 395, train_loss: 11.1624, train_acc: 0.9048, time: 0.2260
+##### def test(): Valid  loss: 2.1824  acc: 0.4597  f1: 0.4544
+##### def test(): Valid  loss: 2.1824  acc: 0.4597  f1: 0.4544  inference Time: 0.07135963439941406
+Epoch 396, train_loss: 11.2075, train_acc: 0.9264, time: 0.2258
+Epoch 397, train_loss: 11.2633, train_acc: 0.9221, time: 0.2261
+Epoch 398, train_loss: 11.2445, train_acc: 0.9264, time: 0.2262
+Epoch 399, train_loss: 11.1968, train_acc: 0.9177, time: 0.2260
+Epoch 400, train_loss: 11.1975, train_acc: 0.9351, time: 0.2263
+##### def test(): Valid  loss: 2.1721  acc: 0.4550  f1: 0.4619
+##### def test(): Valid  loss: 2.1721  acc: 0.4550  f1: 0.4619  inference Time: 0.07190155982971191
+##### def train(): VALID: VALID ACC 0.4929 VALID F1 0.4969 EPOCH 150
+##### def train(): VALID: TEST ACC 0.5063 TEST F1 0.2952 EPOCH 150
+##### def train(): GLOBAL: TEST ACC 0.5649 TEST F1 0.2954 EPOCH 385
+Epoch 401, train_loss: 11.2188, train_acc: 0.9307, time: 0.2259
+Epoch 402, train_loss: 11.1817, train_acc: 0.9177, time: 0.2262
+Epoch 403, train_loss: 11.1537, train_acc: 0.9221, time: 0.2257
+Epoch 404, train_loss: 11.2375, train_acc: 0.9351, time: 0.2259
+Epoch 405, train_loss: 11.1549, train_acc: 0.9394, time: 0.2261
+##### def test(): Valid  loss: 2.1551  acc: 0.4597  f1: 0.4273
+##### def test(): Valid  loss: 2.1551  acc: 0.4597  f1: 0.4273  inference Time: 0.0718080997467041
+Epoch 406, train_loss: 11.2817, train_acc: 0.9264, time: 0.2262
+Epoch 407, train_loss: 11.1864, train_acc: 0.9351, time: 0.2263
+Epoch 408, train_loss: 11.1607, train_acc: 0.9264, time: 0.2259
+Epoch 409, train_loss: 11.1690, train_acc: 0.9221, time: 0.2264
+Epoch 410, train_loss: 11.1906, train_acc: 0.9264, time: 0.2259
+##### def test(): Valid  loss: 2.1714  acc: 0.4455  f1: 0.4504
+##### def test(): Valid  loss: 2.1714  acc: 0.4455  f1: 0.4504  inference Time: 0.07151317596435547
+Epoch 411, train_loss: 11.1784, train_acc: 0.9221, time: 0.2260
+Epoch 412, train_loss: 11.1160, train_acc: 0.9394, time: 0.2261
+Epoch 413, train_loss: 11.1595, train_acc: 0.9221, time: 0.2261
+Epoch 414, train_loss: 11.1817, train_acc: 0.9307, time: 0.2260
+Epoch 415, train_loss: 11.2202, train_acc: 0.9307, time: 0.2262
+##### def test(): Valid  loss: 2.1754  acc: 0.4550  f1: 0.4556
+##### def test(): Valid  loss: 2.1754  acc: 0.4550  f1: 0.4556  inference Time: 0.07210946083068848
+Epoch 416, train_loss: 11.1823, train_acc: 0.9264, time: 0.2259
+Epoch 417, train_loss: 11.2171, train_acc: 0.9307, time: 0.2265
+Epoch 418, train_loss: 11.1486, train_acc: 0.9394, time: 0.2258
+Epoch 419, train_loss: 11.1805, train_acc: 0.9264, time: 0.2259
+Epoch 420, train_loss: 11.2839, train_acc: 0.9351, time: 0.2265
+##### def test(): Valid  loss: 2.1791  acc: 0.4550  f1: 0.4579
+##### def test(): Valid  loss: 2.1791  acc: 0.4550  f1: 0.4579  inference Time: 0.07158255577087402
+Epoch 421, train_loss: 11.1845, train_acc: 0.9307, time: 0.2260
+Epoch 422, train_loss: 11.1877, train_acc: 0.9394, time: 0.2259
+Epoch 423, train_loss: 11.1569, train_acc: 0.9351, time: 0.2261
+Epoch 424, train_loss: 11.1832, train_acc: 0.9394, time: 0.2261
+Epoch 425, train_loss: 11.2399, train_acc: 0.9307, time: 0.2258
+##### def test(): Valid  loss: 2.1672  acc: 0.4645  f1: 0.4674
+##### def test(): Valid  loss: 2.1672  acc: 0.4645  f1: 0.4674  inference Time: 0.07174396514892578
+Epoch 426, train_loss: 11.2066, train_acc: 0.9437, time: 0.2268
+Epoch 427, train_loss: 11.2140, train_acc: 0.9134, time: 0.2264
+Epoch 428, train_loss: 11.1704, train_acc: 0.9437, time: 0.2263
+Epoch 429, train_loss: 11.1554, train_acc: 0.9394, time: 0.2261
+Epoch 430, train_loss: 11.1933, train_acc: 0.9394, time: 0.2259
+##### def test(): Valid  loss: 2.1702  acc: 0.4882  f1: 0.4882
+##### def test(): Valid  loss: 2.1702  acc: 0.4882  f1: 0.4882  inference Time: 0.07173442840576172
+Epoch 431, train_loss: 11.1876, train_acc: 0.9221, time: 0.2260
+Epoch 432, train_loss: 11.1630, train_acc: 0.9307, time: 0.2262
+Epoch 433, train_loss: 11.2219, train_acc: 0.9177, time: 0.2265
+Epoch 434, train_loss: 11.1400, train_acc: 0.9351, time: 0.2266
+Epoch 435, train_loss: 11.1208, train_acc: 0.9351, time: 0.2261
+##### def test(): Valid  loss: 2.1626  acc: 0.4502  f1: 0.4545
+##### def test(): Valid  loss: 2.1626  acc: 0.4502  f1: 0.4545  inference Time: 0.07161903381347656
+Epoch 436, train_loss: 11.1428, train_acc: 0.9264, time: 0.2263
+Epoch 437, train_loss: 11.1720, train_acc: 0.9307, time: 0.2258
+Epoch 438, train_loss: 11.1574, train_acc: 0.9351, time: 0.2264
+Epoch 439, train_loss: 11.1514, train_acc: 0.9437, time: 0.2266
+Epoch 440, train_loss: 11.2097, train_acc: 0.9177, time: 0.2263
+##### def test(): Valid  loss: 2.1804  acc: 0.4597  f1: 0.4226
+##### def test(): Valid  loss: 2.1804  acc: 0.4597  f1: 0.4226  inference Time: 0.0718984603881836
+Epoch 441, train_loss: 11.1812, train_acc: 0.9264, time: 0.2263
+Epoch 442, train_loss: 11.1830, train_acc: 0.9307, time: 0.2267
+Epoch 443, train_loss: 11.1331, train_acc: 0.9264, time: 0.2256
+Epoch 444, train_loss: 11.1335, train_acc: 0.9177, time: 0.2259
+Epoch 445, train_loss: 11.2015, train_acc: 0.9004, time: 0.2261
+##### def test(): Valid  loss: 2.1762  acc: 0.4645  f1: 0.4608
+##### def test(): Valid  loss: 2.1762  acc: 0.4645  f1: 0.4608  inference Time: 0.07148075103759766
+Epoch 446, train_loss: 11.2287, train_acc: 0.8961, time: 0.2261
+Epoch 447, train_loss: 11.1898, train_acc: 0.9394, time: 0.2255
+Epoch 448, train_loss: 11.1800, train_acc: 0.9351, time: 0.2257
+Epoch 449, train_loss: 11.1816, train_acc: 0.9351, time: 0.2261
+Epoch 450, train_loss: 11.1437, train_acc: 0.9264, time: 0.2252
+##### def test(): Valid  loss: 2.1718  acc: 0.4455  f1: 0.4540
+##### def test(): Valid  loss: 2.1718  acc: 0.4455  f1: 0.4540  inference Time: 0.0715949535369873
+Epoch 451, train_loss: 11.1747, train_acc: 0.9394, time: 0.2260
+Epoch 452, train_loss: 11.1636, train_acc: 0.9307, time: 0.2258
+Epoch 453, train_loss: 11.2143, train_acc: 0.9394, time: 0.2265
+Epoch 454, train_loss: 11.2013, train_acc: 0.9437, time: 0.2252
+Epoch 455, train_loss: 11.1152, train_acc: 0.9307, time: 0.2257
+##### def test(): Valid  loss: 2.1756  acc: 0.4455  f1: 0.4430
+##### def test(): Valid  loss: 2.1756  acc: 0.4455  f1: 0.4430  inference Time: 0.07190918922424316
+Epoch 456, train_loss: 11.1420, train_acc: 0.9351, time: 0.2259
+Epoch 457, train_loss: 11.2000, train_acc: 0.9394, time: 0.2260
+Epoch 458, train_loss: 11.1658, train_acc: 0.9307, time: 0.2261
+Epoch 459, train_loss: 11.1763, train_acc: 0.9481, time: 0.2257
+Epoch 460, train_loss: 11.2331, train_acc: 0.9394, time: 0.2260
+##### def test(): Valid  loss: 2.1643  acc: 0.4645  f1: 0.4714
+##### def test(): Valid  loss: 2.1643  acc: 0.4645  f1: 0.4714  inference Time: 0.07178211212158203
+Epoch 461, train_loss: 11.1832, train_acc: 0.9481, time: 0.2261
+Epoch 462, train_loss: 11.2238, train_acc: 0.9264, time: 0.2258
+Epoch 463, train_loss: 11.1543, train_acc: 0.9394, time: 0.2258
+Epoch 464, train_loss: 11.1733, train_acc: 0.9221, time: 0.2260
+Epoch 465, train_loss: 11.1497, train_acc: 0.9264, time: 0.2257
+##### def test(): Valid  loss: 2.1765  acc: 0.4787  f1: 0.4375
+##### def test(): Valid  loss: 2.1765  acc: 0.4787  f1: 0.4375  inference Time: 0.07158064842224121
+Epoch 466, train_loss: 11.1021, train_acc: 0.9351, time: 0.2261
+Epoch 467, train_loss: 11.1818, train_acc: 0.9307, time: 0.2258
+Epoch 468, train_loss: 11.1348, train_acc: 0.9307, time: 0.2261
+Epoch 469, train_loss: 11.2438, train_acc: 0.9437, time: 0.2255
+Epoch 470, train_loss: 11.2080, train_acc: 0.9307, time: 0.2261
+##### def test(): Valid  loss: 2.1558  acc: 0.4834  f1: 0.4816
+##### def test(): Valid  loss: 2.1558  acc: 0.4834  f1: 0.4816  inference Time: 0.07190203666687012
+Epoch 471, train_loss: 11.1353, train_acc: 0.9351, time: 0.2260
+Epoch 472, train_loss: 11.1387, train_acc: 0.9264, time: 0.2260
+Epoch 473, train_loss: 11.2587, train_acc: 0.9351, time: 0.2256
+Epoch 474, train_loss: 11.1144, train_acc: 0.9264, time: 0.2258
+Epoch 475, train_loss: 11.1829, train_acc: 0.9437, time: 0.2261
+##### def test(): Valid  loss: 2.1756  acc: 0.4502  f1: 0.4531
+##### def test(): Valid  loss: 2.1756  acc: 0.4502  f1: 0.4531  inference Time: 0.07186436653137207
+Epoch 476, train_loss: 11.1419, train_acc: 0.9351, time: 0.2260
+Epoch 477, train_loss: 11.1486, train_acc: 0.9394, time: 0.2260
+Epoch 478, train_loss: 11.1802, train_acc: 0.9307, time: 0.2259
+Epoch 479, train_loss: 11.1829, train_acc: 0.9394, time: 0.2262
+Epoch 480, train_loss: 11.1713, train_acc: 0.9307, time: 0.2258
+##### def test(): Valid  loss: 2.1794  acc: 0.4455  f1: 0.4386
+##### def test(): Valid  loss: 2.1794  acc: 0.4455  f1: 0.4386  inference Time: 0.07161974906921387
+Epoch 481, train_loss: 11.2386, train_acc: 0.9307, time: 0.2261
+Epoch 482, train_loss: 11.1588, train_acc: 0.9351, time: 0.2258
+Epoch 483, train_loss: 11.1271, train_acc: 0.9351, time: 0.2261
+Epoch 484, train_loss: 11.1909, train_acc: 0.9394, time: 0.2261
+Epoch 485, train_loss: 11.1678, train_acc: 0.9307, time: 0.2260
+##### def test(): Valid  loss: 2.1758  acc: 0.4645  f1: 0.4671
+##### def test(): Valid  loss: 2.1758  acc: 0.4645  f1: 0.4671  inference Time: 0.07203173637390137
+Epoch 486, train_loss: 11.1847, train_acc: 0.9307, time: 0.2262
+Epoch 487, train_loss: 11.1956, train_acc: 0.9394, time: 0.2262
+Epoch 488, train_loss: 11.1552, train_acc: 0.9351, time: 0.2259
+Epoch 489, train_loss: 11.1528, train_acc: 0.9307, time: 0.2259
+Epoch 490, train_loss: 11.1253, train_acc: 0.9307, time: 0.2263
+##### def test(): Valid  loss: 2.1700  acc: 0.4645  f1: 0.4609
+##### def test(): Valid  loss: 2.1700  acc: 0.4645  f1: 0.4609  inference Time: 0.0716695785522461
+Epoch 491, train_loss: 11.1494, train_acc: 0.9351, time: 0.2260
+Epoch 492, train_loss: 11.1542, train_acc: 0.9264, time: 0.2257
+Epoch 493, train_loss: 11.1610, train_acc: 0.9264, time: 0.2261
+Epoch 494, train_loss: 11.1099, train_acc: 0.9394, time: 0.2266
+Epoch 495, train_loss: 11.1685, train_acc: 0.9351, time: 0.2266
+##### def test(): Valid  loss: 2.1581  acc: 0.4550  f1: 0.4542
+##### def test(): Valid  loss: 2.1581  acc: 0.4550  f1: 0.4542  inference Time: 0.07218217849731445
+Epoch 496, train_loss: 11.1490, train_acc: 0.9307, time: 0.2273
+Epoch 497, train_loss: 11.2147, train_acc: 0.9177, time: 0.2274
+Epoch 498, train_loss: 11.1777, train_acc: 0.9307, time: 0.2263
+Epoch 499, train_loss: 11.1080, train_acc: 0.9134, time: 0.2268
+Epoch 500, train_loss: 11.1224, train_acc: 0.9307, time: 0.2412
+##### def test(): Valid  loss: 2.1690  acc: 0.4502  f1: 0.4537
+##### def test(): Valid  loss: 2.1690  acc: 0.4502  f1: 0.4537  inference Time: 0.10145258903503418
+##### def train(): VALID: VALID ACC 0.4929 VALID F1 0.4969 EPOCH 150
+##### def train(): VALID: TEST ACC 0.5063 TEST F1 0.2952 EPOCH 150
+##### def train(): GLOBAL: TEST ACC 0.5777 TEST F1 0.2990 EPOCH 480
